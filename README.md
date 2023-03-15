@@ -15,10 +15,14 @@ Daily offline **& consolidated database dumps** of [`endoflife.date`](https://en
 ## 🕹️ Enjoy data
 
 ```shell
-duckdb --version
 mkdir -p endoflife-date-exports
 kaggle kernels output adriensales/endoflife-date-database-export -p endoflife-date-exports
 cd endoflife-date-exports
 ls -ltr
-duckdb endoflife.date.duckdb -c 'select * from details;'
+clear
+duckdb --version
+echo "ℹ️  Available tables"
+duckdb endoflife.date.duckdb -c 'show tables;'
+echo "🚀 Get some data"
+duckdb endoflife.date.duckdb -c 'select * from details limit 10;'
 ```

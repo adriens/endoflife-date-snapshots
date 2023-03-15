@@ -16,7 +16,7 @@ clear
 
 # Install duckdb
 DUCKDB_VERSION=v0.7.1
-wget https://github.com/duckdb/duckdb/releases/download/$DUCKDB_VERSION/duckdb_cli-linux-amd64.zip
+wget -O https://github.com/duckdb/duckdb/releases/download/$DUCKDB_VERSION/duckdb_cli-linux-amd64.zip duckdb_cli-linux-amd64.zip
 md5sum duckdb_cli-linux-amd64.zip
 unzip duckdb_cli-linux-amd64.zip
 ./duckdb --version

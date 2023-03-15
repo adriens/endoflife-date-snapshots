@@ -1,4 +1,4 @@
-# 🦆 `endoflife.date` databse exports
+# 🦆 `endoflife.date` database exports
 
 Daily offline **& consolidated database dumps** of [`endoflife.date`](https://endoflife.date/).
 

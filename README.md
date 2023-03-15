@@ -1,6 +1,6 @@
-# 🦆 `endoflife.date` database exports
+# ❔ About
 
-Daily offline **& consolidated database dumps** of [`endoflife.date`](https://endoflife.date/).
+**Daily** offline **& consolidated database dumps** of [`endoflife.date`](https://endoflife.date/).
 
 # 🔖 Kaggle
 

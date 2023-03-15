@@ -8,7 +8,7 @@ Daily offline **& consolidated database dumps** of [`endoflife.date`](https://en
 
 # 🚀 Quickstart
 
-## ☝️ Prerequisite
+## ☝1️⃣ Prerequisite
 
 - [✔️`duckdb`installed](https://duckdb.org/docs/installation/)
 

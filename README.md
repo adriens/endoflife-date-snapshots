@@ -15,6 +15,7 @@ Daily offline **& consolidated database dumps** of [`endoflife.date`](https://en
 ## 🕹️ Enjoy data
 
 ```shell
+duckdb --version
 mkdir -p endoflife-date-exports
 kaggle kernels output adriensales/endoflife-date-database-export -p endoflife-date-exports
 cd endoflife-date-exports

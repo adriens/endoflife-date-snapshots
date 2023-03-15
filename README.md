@@ -12,6 +12,14 @@ Daily offline **& consolidated database dumps** of [`endoflife.date`](https://en
 
 - [✔️`duckdb`installed](https://duckdb.org/docs/installation/)
 
+Test the install:
+
+```shell
+duckdb --version
+```
+
+You are now ready to go.
+
 ## 🕹️ Enjoy data
 
 ```shell

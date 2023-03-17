@@ -1,0 +1,10 @@
+name,uri
+os,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/os/
+lang,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/lang/
+service,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/service/
+framework,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/framework/
+app,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/app/
+db,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/db/
+server-app,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/server-app/
+device,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/device/
+standard,https://deploy-preview-2080--endoflife-date.netlify.app/api/v1/categories/standard/

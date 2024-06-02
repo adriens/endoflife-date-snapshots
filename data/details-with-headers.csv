@@ -2397,6 +2397,7 @@ nix,2.2,2019-09-04,2.2.2,2019-01-11,2019-04-15,false,,https://endoflife.date/nix
 nix,2.1,2019-01-11,2.1.3,2018-09-03,2018-10-02,false,,https://endoflife.date/nix,,,,,2019-01-11,false,,false,,,,
 nix,2.0,2018-09-03,2.0.4,2018-02-22,2018-05-31,false,,https://endoflife.date/nix,,,,,2018-09-03,false,,false,,,,
 nix,1,2018-02-22,1.11.16,2012-05-11,2017-12-20,false,https://nixos.org/manual/nix/stable/release-notes/rl-1.11,https://endoflife.date/nix,,,,,2018-02-22,false,,false,,,,
+nixos,24.05,2024-12-31,,2024-05-31,,false,,https://endoflife.date/nixos,,,,,2024-12-31,false,,false,,,,
 nixos,23.11,2024-06-30,,2023-11-29,,false,,https://endoflife.date/nixos,,,,,2024-06-30,false,,false,,,,
 nixos,23.05,2023-12-31,,2023-05-31,,false,,https://endoflife.date/nixos,,,,,2023-12-31,false,,false,,,,
 nixos,22.11,2023-06-30,,2022-11-30,,false,,https://endoflife.date/nixos,,,,,2023-06-30,false,,false,,,,

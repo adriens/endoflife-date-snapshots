@@ -35,7 +35,7 @@ alpine,3.10,2021-05-01,3.10.9,2019-06-19,2021-04-14,false,https://alpinelinux.or
 alpine,3.9,2020-11-01,3.9.6,2019-01-29,2020-04-23,false,https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html,https://endoflife.date/alpine,,,,,2020-11-01,false,,false,,,,
 alpine,3.8,2020-05-01,3.8.5,2018-06-26,2020-01-23,false,https://git.alpinelinux.org/aports/log/?h=3.8-stable,https://endoflife.date/alpine,,,,,2020-05-01,false,,false,,,,
 alpine,3.7,2019-11-01,3.7.3,2017-11-30,2019-03-06,false,https://git.alpinelinux.org/aports/log/?h=3.7-stable,https://endoflife.date/alpine,,,,,2019-11-01,false,,false,,,,
-amazon-cdk,2,false,2.147.1,2021-12-01,2024-06-21,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
+amazon-cdk,2,false,2.147.2,2021-12-01,2024-06-27,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
 amazon-corretto,22,2024-10-31,22.0.1.8.1,2024-03-19,2024-04-16,false,,https://endoflife.date/amazon-corretto,,,,,2024-10-31,false,,false,,,,
 amazon-corretto,21,2030-10-31,21.0.3.9.1,2023-08-25,2024-04-16,true,,https://endoflife.date/amazon-corretto,,,,,2030-10-31,false,,true,,,,
 amazon-corretto,17,2029-10-31,17.0.11.9.1,2021-08-24,2024-04-16,true,,https://endoflife.date/amazon-corretto,,,,,2029-10-31,false,,true,,,,
@@ -1360,7 +1360,7 @@ gradle,4,2018-11-26,4.10.3,2017-06-14,2018-12-04,false,,https://endoflife.date/g
 gradle,3,2017-06-14,3.5.1,2016-08-15,2017-06-16,false,,https://endoflife.date/gradle,,,2017-06-14,,2017-06-14,false,,false,,,,
 gradle,2,2016-08-15,2.14.1,2014-07-01,2016-07-18,false,,https://endoflife.date/gradle,,,2016-08-15,,2016-08-15,false,,false,,,,
 gradle,1,2014-07-01,1.12.0,2012-06-12,2014-04-29,false,,https://endoflife.date/gradle,,,2014-07-01,,2014-07-01,false,,false,,,,
-grafana,11.1,false,11.1.0,2024-06-21,2024-06-21,false,,https://endoflife.date/grafana,,,,true,,false,,false,,,,
+grafana,11.1,false,11.1.0,2024-06-21,2024-06-24,false,,https://endoflife.date/grafana,,,,true,,false,,false,,,,
 grafana,11.0,false,11.0.1,2024-05-13,2024-06-21,false,,https://endoflife.date/grafana,,,,true,,false,,false,,,,
 grafana,10.4,false,10.4.5,2024-03-05,2024-06-21,false,,https://endoflife.date/grafana,,,,true,,false,,false,,,,
 grafana,10.3,2024-05-14,10.3.7,2024-01-22,2024-06-21,false,,https://endoflife.date/grafana,,,2024-03-06,,2024-05-14,false,,false,,,,
@@ -1654,7 +1654,7 @@ isc-dhcp,4.3,2018-02-28,4.3.6-P1,2014-02-04,2018-02-28,false,,https://endoflife.
 isc-dhcp,4.2,2015-03-05,4.2.8,2010-07-15,2015-03-05,false,,https://endoflife.date/isc-dhcp,,,,,2015-03-05,false,,false,,,,
 istio,1.22,2025-03-31,1.22.2,2024-05-13,2024-06-27,false,,https://endoflife.date/istio,,,,,2025-03-31,false,,false,,,,
 istio,1.21,2024-12-31,1.21.4,2024-03-13,2024-06-27,false,,https://endoflife.date/istio,,,,,2024-12-31,false,,false,,,,
-istio,1.20,2024-07-31,1.20.7,2023-11-14,2024-06-04,false,,https://endoflife.date/istio,,,,,2024-07-31,false,,false,,,,
+istio,1.20,2024-06-25,1.20.7,2023-11-14,2024-06-04,false,,https://endoflife.date/istio,,,,,2024-06-25,false,,false,,,,
 istio,1.19,2024-04-24,1.19.10,2023-09-05,2024-04-22,false,,https://endoflife.date/istio,,,,,2024-04-24,false,,false,,,,
 istio,1.18,2024-01-04,1.18.7,2023-06-07,2024-01-03,false,,https://endoflife.date/istio,,,,,2024-01-04,false,,false,,,,
 istio,1.17,2023-10-27,1.17.8,2023-02-14,2023-10-11,false,,https://endoflife.date/istio,,,,,2023-10-27,false,,false,,,,
@@ -2303,7 +2303,7 @@ msexchange,2000,2011-01-11,6.0.6620.7,2000-11-29,2008-08-01,false,,https://endof
 msexchange,5.5,2006-01-10,5.5.2653,1998-02-03,2000-11-01,false,,https://endoflife.date/msexchange,,,2003-12-31,,2006-01-10,false,,false,,,,
 msexchange,4.0,true,4.0.996,1996-06-11,1998-05-05,false,,https://endoflife.date/msexchange,,,,,,true,,false,,,,
 msexchange,5.0,2006-01-10,5.0.1460,1997-05-23,1998-02-19,false,,https://endoflife.date/msexchange,,,2003-12-31,,2006-01-10,false,,false,,,,
-mssqlserver,15.0,2030-01-08,15.0.4365.2,2019-11-04,2024-06-13,false,https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate27,https://endoflife.date/mssqlserver,,false,2025-01-07,,2030-01-08,false,,false,,,,false
+mssqlserver,15.0,2030-01-08,15.0.4375.4,2019-11-04,2024-06-13,false,https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate27,https://endoflife.date/mssqlserver,,false,2025-01-07,,2030-01-08,false,,false,,,,false
 mssqlserver,16.0,2033-01-11,16.0.4125.3,2022-11-16,2024-05-16,false,https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate13,https://endoflife.date/mssqlserver,,false,2028-01-11,,2033-01-11,false,,false,,,,false
 mssqlserver,14.0,2027-10-12,14.0.3465.1,2017-09-29,2023-10-10,false,https://support.microsoft.com/help/5029376,https://endoflife.date/mssqlserver,,false,2022-10-11,,2027-10-12,false,,false,,,,false
 mssqlserver,13.0,2026-07-14,13.0.6435.1,2018-04-24,2023-10-10,false,https://support.microsoft.com/help/5029186,https://endoflife.date/mssqlserver,,false,2021-07-13,,2026-07-14,false,,false,,,,false
@@ -2903,9 +2903,9 @@ pangp,3.1,2018-06-23,3.1,2016-06-23,2016-06-23,false,,https://endoflife.date/pan
 pangp,3.0,2018-02-15,3.0,2016-02-16,2016-02-16,false,,https://endoflife.date/pangp,,,2017-05-18,,2018-02-15,false,,false,,,,
 pangp,5.0,2021-02-12,5.0.10,2019-02-12,,false,https://web.archive.org/web/20220815074700/https://docs.paloaltonetworks.com/globalprotect/5-0/globalprotect-app-release-notes/gp-app-release-information/globalprotect-50-addressed-issues,https://endoflife.date/pangp,,,2020-05-12,,2021-02-12,false,,false,,,,
 pangp,4.1,2020-03-01,4.1.13,2018-03-01,,false,https://web.archive.org/web/20220813143321/https://docs.paloaltonetworks.com/globalprotect/4-1/globalprotect-app-release-notes/gp-app-release-information/globalprotect-app-4113-addressed-issues,https://endoflife.date/pangp,,,2019-06-01,,2020-03-01,false,,false,,,,
+panos,11.1,2027-05-03,11.1.4,2023-11-03,2024-06-27,false,https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-4-known-and-addressed-issues/pan-os-11-1-4-addressed-issues,https://endoflife.date/panos,,,,,2027-05-03,false,,false,,,,
 panos,10.2,2025-08-27,10.2.10,2022-02-27,2024-06-24,false,https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-10-known-and-addressed-issues/pan-os-10-2-10-addressed-issues,https://endoflife.date/panos,,,,,2025-08-27,false,,false,,,,
 panos,11.0,2024-11-17,11.0.5,2022-11-17,2024-06-21,false,https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-5-known-and-addressed-issues/pan-os-11-0-5-addressed-issues,https://endoflife.date/panos,,,,,2024-11-17,false,,false,,,,
-panos,11.1,2027-05-03,11.1.3-h1,2023-11-03,2024-06-06,false,https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-3-known-and-addressed-issues/pan-os-11-1-3-h1-addressed-issues,https://endoflife.date/panos,,,,,2027-05-03,false,,false,,,,
 panos,10.1,2024-12-01,10.1.14,2021-05-31,2024-05-30,false,https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-addressed-issues,https://endoflife.date/panos,,,,,2024-12-01,false,,false,,,,
 panos,9.1,2024-06-30,9.1.19,2019-12-13,2024-05-22,false,https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues,https://endoflife.date/panos,,,,,2024-06-30,false,,false,,,,
 panos,11.2,2027-05-02,11.2.0,2024-05-02,2024-05-02,false,https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-0-known-and-addressed-issues/pan-os-11-2-0-addressed-issues,https://endoflife.date/panos,,,,,2027-05-02,false,,false,,,,
@@ -4386,7 +4386,7 @@ vmware-srm,6.1,2020-03-12,6.1.2.2,2015-03-12,2018-07-26,false,https://web.archiv
 vmware-srm,5.5,2018-09-19,5.5.1.7,2013-09-19,2016-08-25,false,https://web.archive.org/web/20210925064144/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.5/rn/srm-releasenotes-5-5-1.html,https://endoflife.date/vmware-srm,,,,,2018-09-19,false,,false,,,,
 vmware-srm,5.8,2018-09-19,5.8.1.1,2013-09-19,2016-07-26,false,https://web.archive.org/web/20210925124006/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/5.8/rn/srm-releasenotes-5-8-1.html,https://endoflife.date/vmware-srm,,,,,2018-09-19,false,,false,,,,
 vmware-srm,6.0,2020-03-12,6.0.0.1,2015-03-12,2015-04-30,false,https://web.archive.org/web/20210924031516/https://docs.vmware.com/en/vCenter-Site-Recovery-Manager/6.0/rn/srm-releasenotes-6-0-0.html,https://endoflife.date/vmware-srm,,,,,2020-03-12,false,,false,,,,
-vue,3,false,3.4.30,2020-09-18,2024-06-22,false,https://github.com/vuejs/core/blob/main/CHANGELOG.md,https://endoflife.date/vue,,false,,true,,false,,false,,,,false
+vue,3,false,3.4.31,2020-09-18,2024-06-28,false,https://github.com/vuejs/core/blob/main/CHANGELOG.md,https://endoflife.date/vue,,false,,true,,false,,false,,,,false
 vue,2,2023-12-31,2.7.16,2016-09-30,2023-12-24,false,https://github.com/vuejs/vue/blob/main/CHANGELOG.md,https://endoflife.date/vue,,true,2022-03-18,,2023-12-31,false,,false,,,,true
 vue,1,true,1.0.28,2015-10-27,2016-09-27,false,https://github.com/vuejs/vue/releases/tag/v__LATEST__,https://endoflife.date/vue,,false,,,,true,,false,,,,false
 vuetify,3,false,3.6.10,2022-10-31,2024-06-19,false,,https://endoflife.date/vuetify,,,,true,,false,,false,,,,
@@ -4477,14 +4477,24 @@ windows-embedded,Compact 2013,2023-10-10,,2013-08-11,,false,https://learn.micros
 windows-embedded,POSReady 7,2021-10-12,,2011-09-10,,false,https://learn.microsoft.com/lifecycle/products/windows-embedded-posready-7,https://endoflife.date/windows-embedded,,,2016-10-11,,2021-10-12,false,,false,,,,
 windows-embedded,Compact 7,2021-04-13,,2011-03-15,,false,https://learn.microsoft.com/lifecycle/products/windows-embedded-compact-7,https://endoflife.date/windows-embedded,,,2016-04-12,,2021-04-13,false,,false,,,,
 windows-embedded,Standard 7 SP1,2020-10-13,,2011-02-28,,false,https://learn.microsoft.com/lifecycle/products/windows-embedded-standard-7,https://endoflife.date/windows-embedded,,,2015-10-13,,2020-10-13,false,,false,,,,
+windows-nano-server,2022,2031-10-14,10.0.20348,2021-08-18,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-nano-server,,,2026-10-13,,2031-10-14,false,,true,,,,
+windows-nano-server,20H2,2022-08-09,10.0.19042,2020-10-20,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-20h2-retiring,https://endoflife.date/windows-nano-server,,,2022-08-09,,2022-08-09,false,,false,,,,
+windows-nano-server,2004,2021-12-14,10.0.19041,2020-05-27,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-version-2004-end-of-servicing,https://endoflife.date/windows-nano-server,,,2021-12-14,,2021-12-14,false,,false,,,,
+windows-nano-server,1909,2021-05-11,10.0.18363,2019-11-12,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1909-end-of-servicing,https://endoflife.date/windows-nano-server,,,2021-05-11,,2021-05-11,false,,false,,,,
+windows-nano-server,1903,2020-12-08,10.0.18362,2019-05-21,,false,https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle,https://endoflife.date/windows-nano-server,,,2020-12-08,,2020-12-08,false,,false,,,,
+windows-nano-server,1809,2020-11-10,10.0.17763,2018-11-13,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1809-end-of-servicing,https://endoflife.date/windows-nano-server,,,2020-11-10,,2020-11-10,false,,false,,,,
+windows-nano-server,2019,2029-01-09,10.0.17763,2018-11-13,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-nano-server,,,2024-01-09,,2029-01-09,false,,true,,,,
+windows-nano-server,1803,2019-11-12,10.0.17134,2018-04-30,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1803-end-of-servicing,https://endoflife.date/windows-nano-server,,,2019-11-12,,2019-11-12,false,,false,,,,
+windows-nano-server,1709,2019-04-09,10.0.16299,2017-10-17,,false,https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766,https://endoflife.date/windows-nano-server,,,2019-04-09,,2019-04-09,false,,false,,,,
+windows-nano-server,1607,2018-09-10,10.0.14393,2016-10-15,,false,https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle,https://endoflife.date/windows-nano-server,,,2018-09-10,,2018-09-10,false,,false,,,,
 windows-server,23H2,2025-10-24,10.0.25398,2023-10-24,,false,https://learn.microsoft.com/lifecycle/products/windows-server-annual-channel,https://endoflife.date/windows-server,,false,2025-04-24,,2025-10-24,false,,false,,,,false
 windows-server,2022,2031-10-14,10.0.20348,2021-08-18,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-server,,false,2026-10-13,,2031-10-14,false,,true,,,,false
 windows-server,20H2,2022-08-09,10.0.19042,2020-10-20,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-20h2-retiring,https://endoflife.date/windows-server,,false,2022-08-09,,2022-08-09,false,,false,,,,false
 windows-server,2004,2021-12-14,10.0.19041,2020-05-27,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-version-2004-end-of-servicing,https://endoflife.date/windows-server,,false,2021-12-14,,2021-12-14,false,,false,,,,false
 windows-server,1909,2021-05-11,10.0.18363,2019-11-12,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1909-end-of-servicing,https://endoflife.date/windows-server,,false,2021-05-11,,2021-05-11,false,,false,,,,false
+windows-server,1903,2020-12-08,10.0.18362,2019-05-21,,false,https://learn.microsoft.com/lifecycle/products/windows-server-semiannual-channel,https://endoflife.date/windows-server,,false,2020-12-08,,2020-12-08,false,,false,,,,false
 windows-server,1809,2020-11-10,10.0.17763,2018-11-13,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1809-end-of-servicing,https://endoflife.date/windows-server,,false,2020-11-10,,2020-11-10,false,,false,,,,false
 windows-server,2019,2029-01-09,10.0.17763,2018-11-13,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-server,,false,2024-01-09,,2029-01-09,false,,true,,,,false
-windows-server,1903,2020-12-08,10.0.18362,2018-05-21,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1809-end-of-servicing,https://endoflife.date/windows-server,,false,2020-12-08,,2020-12-08,false,,false,,,,false
 windows-server,1803,2019-11-12,10.0.17134,2018-04-30,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1803-end-of-servicing,https://endoflife.date/windows-server,,false,2019-11-12,,2019-11-12,false,,false,,,,false
 windows-server,1709,2019-04-09,10.0.16299,2017-10-17,,false,https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766,https://endoflife.date/windows-server,,false,2019-04-09,,2019-04-09,false,,false,,,,false
 windows-server,2016,2027-01-12,10.0.14393,2016-10-15,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-server,,false,2022-01-11,,2027-01-12,false,,true,,,,false
@@ -4494,6 +4504,17 @@ windows-server,2008-R2-SP1,2020-01-14,6.1.7601,2011-02-22,,true,https://learn.mi
 windows-server,2008-SP2,2020-01-14,6.0.6003,2009-04-29,,true,https://learn.microsoft.com/lifecycle/products/windows-server-2008,https://endoflife.date/windows-server,,2023-01-10,2015-01-13,,2020-01-14,false,,true,,,2023-01-10,
 windows-server,2003-SP2,2015-07-14,5.2.3790,2003-04-24,,true,https://learn.microsoft.com/lifecycle/products/windows-server-2003-,https://endoflife.date/windows-server,,false,2010-07-13,,2015-07-14,false,,true,,,,false
 windows-server,2000,2010-07-13,5.0.2195,2000-02-17,,true,,https://endoflife.date/windows-server,,false,2005-06-30,,2010-07-13,false,,true,,,,false
+windows-server-core,2022,2031-10-14,10.0.20348,2021-08-18,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-server-core,,,2026-10-13,,2031-10-14,false,,true,,,,
+windows-server-core,20H2,2022-08-09,10.0.19042,2020-10-20,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-20h2-retiring,https://endoflife.date/windows-server-core,,,2022-08-09,,2022-08-09,false,,false,,,,
+windows-server-core,2004,2021-12-14,10.0.19041,2020-05-27,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-version-2004-end-of-servicing,https://endoflife.date/windows-server-core,,,2021-12-14,,2021-12-14,false,,false,,,,
+windows-server-core,1909,2021-05-11,10.0.18363,2019-11-12,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1909-end-of-servicing,https://endoflife.date/windows-server-core,,,2021-05-11,,2021-05-11,false,,false,,,,
+windows-server-core,1903,2020-12-08,10.0.18362,2019-05-21,,false,https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle,https://endoflife.date/windows-server-core,,,2020-12-08,,2020-12-08,false,,false,,,,
+windows-server-core,1809,2020-11-10,10.0.17763,2018-11-13,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1809-end-of-servicing,https://endoflife.date/windows-server-core,,,2020-11-10,,2020-11-10,false,,false,,,,
+windows-server-core,2019,2029-01-09,10.0.17763,2018-11-13,,true,https://learn.microsoft.com/windows/release-health/windows-server-release-info,https://endoflife.date/windows-server-core,,,2024-01-09,,2029-01-09,false,,true,,,,
+windows-server-core,1803,2019-11-12,10.0.17134,2018-04-30,,false,https://learn.microsoft.com/lifecycle/announcements/windows-server-1803-end-of-servicing,https://endoflife.date/windows-server-core,,,2019-11-12,,2019-11-12,false,,false,,,,
+windows-server-core,1709,2019-04-09,10.0.16299,2017-10-17,,false,https://techcommunity.microsoft.com/t5/windows-server-for-developers/windows-server-version-1709-lifecycle-announcement/m-p/379766,https://endoflife.date/windows-server-core,,,2019-04-09,,2019-04-09,false,,false,,,,
+windows-server-core,1607,2022-01-11,10.0.14393,2016-10-15,,false,https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle,https://endoflife.date/windows-server-core,,,2022-01-11,,2022-01-11,false,,false,,,,
+windows-server-core,2016,2027-01-12,10.0.14393,2016-10-15,,true,https://learn.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle,https://endoflife.date/windows-server-core,,,2022-01-11,,2027-01-12,false,,true,,,,
 wordpress,6.5,false,6.5.5,2024-04-02,2024-06-24,false,,https://endoflife.date/wordpress,,,,,,false,,false,,,,
 wordpress,6.4,2024-04-02,6.4.5,2023-11-07,2024-06-24,false,,https://endoflife.date/wordpress,,,,,2024-04-02,false,,false,,,,
 wordpress,6.3,2023-11-07,6.3.5,2023-08-08,2024-06-24,false,,https://endoflife.date/wordpress,,,,,2023-11-07,false,,false,,,,

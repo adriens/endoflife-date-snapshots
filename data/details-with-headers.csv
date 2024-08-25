@@ -4221,6 +4221,7 @@ sapmachine,15,2021-03-15,15.0.2,2020-09-16,2021-01-22,false,,https://endoflife.d
 sapmachine,14,2020-09-16,14.0.2,2020-03-18,2020-07-16,false,,https://endoflife.date/sapmachine,,,,,2020-09-16,false,,false,,,,
 sapmachine,13,2020-03-18,13.0.2,2019-09-18,2020-01-16,false,,https://endoflife.date/sapmachine,,,,,2020-03-18,false,,false,,,,
 sapmachine,12,2019-09-18,12.0.2,2019-03-21,2019-07-17,false,,https://endoflife.date/sapmachine,,,,,2019-09-18,false,,false,,,,
+scala,3.5,false,3.5.0,2024-08-22,2024-08-22,false,,https://endoflife.date/scala,,,,true,,false,,false,,,,
 scala,3.4,false,3.4.3,2024-02-14,2024-08-14,false,,https://endoflife.date/scala,,,,true,,false,,false,,,,
 scala,2.13,false,2.13.14,2019-06-07,2024-05-01,false,https://github.com/scala/scala/releases/tag/v__LATEST__,https://endoflife.date/scala,,,,true,,false,,false,,,,
 scala,3.3,false,3.3.3,2023-05-23,2024-02-29,true,,https://endoflife.date/scala,,,,true,,false,,true,,,,

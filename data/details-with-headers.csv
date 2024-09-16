@@ -892,7 +892,7 @@ django,1.11,2020-04-01,1.11.29,2017-04-04,2020-03-04,true,,https://endoflife.dat
 django,2.1,2019-12-02,2.1.15,2018-08-01,2019-12-02,false,,https://endoflife.date/django,,,2019-04-01,,2019-12-02,false,,false,,,,
 django,2.0,2019-04-01,2.0.13,2017-12-02,2019-02-12,false,,https://endoflife.date/django,,,2018-08-01,,2019-04-01,false,,false,,,,
 docker-engine,27.2,false,27.2.1,2024-08-27,2024-09-09,false,,https://endoflife.date/docker-engine,,,,,,false,,false,,,,
-docker-engine,23.0,false,23.0.14,2023-02-02,2024-08-19,false,,https://endoflife.date/docker-engine,,,,,,false,,false,,,,
+docker-engine,23.0,2025-05-19,23.0.14,2023-02-02,2024-08-19,false,,https://endoflife.date/docker-engine,,,,,2025-05-19,false,,false,,,,
 docker-engine,27.1,2024-08-27,27.1.2,2024-07-22,2024-08-13,false,,https://endoflife.date/docker-engine,,,,,2024-08-27,false,,false,,,,
 docker-engine,25.0,false,25.0.6,2024-01-19,2024-07-25,false,,https://endoflife.date/docker-engine,,,,,,false,,false,,,,
 docker-engine,26.1,false,26.1.5,2024-04-22,2024-07-23,false,,https://endoflife.date/docker-engine,,,,,,false,,false,,,,

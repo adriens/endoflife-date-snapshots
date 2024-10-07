@@ -83,6 +83,7 @@ amazon-linux,2012.09,2023-12-31,2012.09,2012-10-11,,false,https://aws.amazon.com
 amazon-linux,2012.03,2023-12-31,2012.03,2012-03-28,,false,https://aws.amazon.com/blogs/aws/updated-amazon-linux-ami-201203-now-available/,https://endoflife.date/amazon-linux,,,2020-12-31,,2023-12-31,false,,false,,,,
 amazon-linux,2011.09,2023-12-31,2011.09,2011-09-26,,false,https://aws.amazon.com/blogs/aws/amazon-linux-ami-production-status-new-features/,https://endoflife.date/amazon-linux,,,2020-12-31,,2023-12-31,false,,false,,,,
 amazon-linux,2010.11,2023-12-31,2010.11,2010-12-01,,false,https://aws.amazon.com/blogs/aws/amazon-linux-ami-2010111-released/,https://endoflife.date/amazon-linux,,,2020-12-31,,2023-12-31,false,,false,,,,
+amazon-neptune,1.3.4.0,2027-03-06,1.3.4.0,2024-10-01,2024-10-01,false,,https://endoflife.date/amazon-neptune,,,,,2027-03-06,false,,false,,,,
 amazon-neptune,1.3.3.0,2027-03-06,1.3.3.0,2024-08-05,2024-08-05,false,,https://endoflife.date/amazon-neptune,,,,,2027-03-06,false,,false,,,,
 amazon-neptune,1.2.1.2,2026-03-06,1.2.1.2,2024-08-05,2024-08-05,false,,https://endoflife.date/amazon-neptune,,,,,2026-03-06,false,,false,,,,
 amazon-neptune,1.3.2.1,2027-03-06,1.3.2.1,2024-06-20,2024-06-20,false,,https://endoflife.date/amazon-neptune,,,,,2027-03-06,false,,false,,,,
@@ -2454,6 +2455,7 @@ micronaut,1,2021-12-31,1.3.7,2018-10-23,2020-07-10,false,,https://endoflife.date
 microsoft-build-of-openjdk,21,2028-09-30,21.0.4,2023-09-19,2024-07-16,true,,https://endoflife.date/microsoft-build-of-openjdk,,,,,2028-09-30,false,,true,,,,
 microsoft-build-of-openjdk,11,2027-09-30,11.0.24,2019-01-21,2024-07-16,true,,https://endoflife.date/microsoft-build-of-openjdk,,,,,2027-09-30,false,,true,,,,
 microsoft-build-of-openjdk,17,2027-09-30,17.0.12,2021-09-14,2024-07-15,true,,https://endoflife.date/microsoft-build-of-openjdk,,,,,2027-09-30,false,,true,,,,
+mongodb,8.0,false,8.0.0,2024-10-02,2024-10-02,false,,https://endoflife.date/mongodb,,,,,,false,,false,,,,
 mongodb,6.0,2025-07-31,6.0.18,2022-07-05,2024-09-12,false,,https://endoflife.date/mongodb,,,,,2025-07-31,false,,false,,,,
 mongodb,5.0,2024-10-31,5.0.29,2021-07-08,2024-08-26,false,,https://endoflife.date/mongodb,,,,,2024-10-31,false,,false,,,,
 mongodb,7.0,2026-08-31,7.0.14,2023-08-01,2024-08-20,false,,https://endoflife.date/mongodb,,,,,2026-08-31,false,,false,,,,
@@ -3662,9 +3664,10 @@ readynas,RN204,true,,,,false,,https://endoflife.date/readynas,,,,,,true,,false,,
 readynas,RN202,true,,,,false,,https://endoflife.date/readynas,,,,,,true,,false,,,,
 readynas,RN104,true,,,,false,,https://endoflife.date/readynas,,,,,,true,,false,,,,
 readynas,RN102,true,,,,false,,https://endoflife.date/readynas,,,,,,true,,false,,,,
+red-hat-openshift,4.17,2026-04-01,4.17.0,2024-10-01,2024-10-01,false,,https://endoflife.date/red-hat-openshift,,false,,true,2026-04-01,false,,false,,,,false
 red-hat-openshift,4.15,2025-08-27,4.15.34,2024-02-27,2024-09-25,false,,https://endoflife.date/red-hat-openshift,,false,2024-09-27,,2025-08-27,false,,false,,,,false
 red-hat-openshift,4.13,2024-11-17,4.13.51,2023-05-17,2024-09-25,false,,https://endoflife.date/red-hat-openshift,,false,2024-01-31,,2024-11-17,false,,false,,,,false
-red-hat-openshift,4.16,2025-12-27,4.16.14,2024-06-27,2024-09-24,false,,https://endoflife.date/red-hat-openshift,,2026-06-27,,true,2025-12-27,false,,false,,,2026-06-27,
+red-hat-openshift,4.16,2025-12-27,4.16.14,2024-06-27,2024-09-24,false,,https://endoflife.date/red-hat-openshift,,2026-06-27,2025-01-01,,2025-12-27,false,,false,,,2026-06-27,
 red-hat-openshift,4.14,2025-05-01,4.14.37,2023-10-31,2024-09-19,false,,https://endoflife.date/red-hat-openshift,,2025-10-31,2024-05-27,,2025-05-01,false,,false,,,2025-10-31,
 red-hat-openshift,4.12,2024-07-17,4.12.66,2023-01-17,2024-09-19,false,,https://endoflife.date/red-hat-openshift,,2025-01-17,2023-08-17,,2024-07-17,false,,false,,,2025-01-17,
 red-hat-openshift,4.11,2024-02-10,4.11.59,2022-08-10,2024-03-27,false,,https://endoflife.date/red-hat-openshift,,false,2023-04-17,,2024-02-10,false,,false,,,,false

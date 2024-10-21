@@ -1372,7 +1372,7 @@ gerrit,3.0,2020-12-01,3.0.16,2019-05-15,2021-02-01,false,,https://endoflife.date
 gerrit,2.15,2019-11-15,2.15.22,2018-03-28,2021-02-01,false,,https://endoflife.date/gerrit,,,,,2019-11-15,false,,false,,,,
 gerrit,2.14,2019-05-31,2.14.22,2017-04-26,2020-11-19,false,,https://endoflife.date/gerrit,,,,,2019-05-31,false,,false,,,,
 gerrit,2.13,true,2.13.14,2016-09-21,2019-04-19,false,,https://endoflife.date/gerrit,,,,,,true,,false,,,,
-gitlab,17.5,2025-01-16,17.4.2,2024-10-17,2024-10-17,false,,https://endoflife.date/gitlab,,,2024-11-21,,2025-01-16,false,,false,,,,
+gitlab,17.5,2025-01-16,17.5.0,2024-10-17,2024-10-17,false,,https://endoflife.date/gitlab,,,2024-11-21,,2025-01-16,false,,false,,,,
 gitlab,17.4,2024-12-19,17.4.2,2024-09-19,2024-10-09,false,,https://endoflife.date/gitlab,,,2024-10-17,,2024-12-19,false,,false,,,,
 gitlab,17.3,2024-11-21,17.3.5,2024-08-15,2024-10-09,false,,https://endoflife.date/gitlab,,,2024-09-19,,2024-11-21,false,,false,,,,
 gitlab,17.2,2024-10-17,17.2.9,2024-07-18,2024-10-09,false,,https://endoflife.date/gitlab,,,2024-08-15,,2024-10-17,false,,false,,,,

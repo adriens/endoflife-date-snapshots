@@ -986,9 +986,9 @@ drush,9,2020-05-31,9.7.3,2018-01-24,2021-03-22,false,,https://endoflife.date/dru
 drush,6,2015-12-31,6.7.0,2013-08-16,2015-12-02,false,,https://endoflife.date/drush,,,,,2015-12-31,false,,false,,,,
 drush,5,2015-05-31,5.11.0,2012-03-23,2014-05-22,false,,https://endoflife.date/drush,,,,,2015-05-31,false,,false,,,,
 eclipse-jetty,12,false,12.0.14,2023-08-07,2024-09-30,false,,https://endoflife.date/eclipse-jetty,,true,,true,,false,,false,,,,true
-eclipse-jetty,11,false,11.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,2025-01-01,2024-01-01,,,false,,false,,,2025-01-01,
-eclipse-jetty,10,false,10.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,true,2024-01-01,,,false,,false,,,,true
-eclipse-jetty,9.4,false,9.4.53.v20231009,2016-12-07,2023-10-10,false,,https://endoflife.date/eclipse-jetty,,true,2022-06-01,,,false,,false,,,,true
+eclipse-jetty,11,2025-01-01,11.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,true,2024-01-01,,2025-01-01,false,,false,,,,true
+eclipse-jetty,10,2025-01-01,10.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,true,2024-01-01,,2025-01-01,false,,false,,,,true
+eclipse-jetty,9.4,2025-01-01,9.4.53.v20231009,2016-12-07,2023-10-10,false,,https://endoflife.date/eclipse-jetty,,true,2022-06-01,,2025-01-01,false,,false,,,,true
 eclipse-jetty,9.3,2020-12-07,9.3.30.v20211001,2015-06-01,2021-10-01,false,,https://endoflife.date/eclipse-jetty,,false,2020-12-07,,2020-12-07,false,,false,,,,false
 eclipse-jetty,9.2,2018-03-08,9.2.30.v20200428,2014-05-23,2020-04-28,false,,https://endoflife.date/eclipse-jetty,,false,2018-03-08,,2018-03-08,false,,false,,,,false
 eclipse-jetty,8,2014-12-31,8.2.0.v20160908,2011-09-01,2016-09-08,false,,https://endoflife.date/eclipse-jetty,,false,2014-12-31,,2014-12-31,false,,false,,,,false
@@ -1812,8 +1812,8 @@ iphone,16-pro,false,,2024-09-20,,false,https://support.apple.com/en-us/121031,ht
 iphone,16-pro-max,false,,2024-09-20,,false,https://support.apple.com/en-us/121032,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
 iphone,15,false,,2023-09-22,,false,https://support.apple.com/kb/SP901,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
 iphone,15-plus,false,,2023-09-22,,false,https://support.apple.com/kb/SP902,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
-iphone,15-pro,false,,2023-09-22,,false,https://support.apple.com/kb/SP903,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
-iphone,15-pro-max,false,,2023-09-22,,false,https://support.apple.com/kb/SP904,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
+iphone,15-pro,false,,2023-09-22,,false,https://support.apple.com/kb/SP903,https://endoflife.date/iphone,2024-09-09,,,,,false,,false,2024-09-09,,,
+iphone,15-pro-max,false,,2023-09-22,,false,https://support.apple.com/kb/SP904,https://endoflife.date/iphone,2024-09-09,,,,,false,,false,2024-09-09,,,
 iphone,14-plus,false,,2022-10-07,,false,https://support.apple.com/kb/SP874,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
 iphone,14,false,,2022-09-16,,false,https://support.apple.com/kb/SP873,https://endoflife.date/iphone,false,,,,,false,,false,,false,,
 iphone,14-pro,false,,2022-09-16,,false,https://support.apple.com/kb/SP875,https://endoflife.date/iphone,2023-09-12,,,,,false,,false,2023-09-12,,,
@@ -3922,8 +3922,9 @@ salt,3006,2025-10-18,3006.9,2023-04-18,2024-07-30,true,,https://endoflife.date/s
 salt,3007,2024-10-18,3007.1,2024-03-06,2024-05-22,false,https://docs.saltproject.io/en/latest/topics/releases/__LATEST__.html,https://endoflife.date/salt,,,2024-10-18,,2024-10-18,false,,false,,,,
 salt,3005,2024-02-25,3005.5,2022-08-22,2024-01-24,false,,https://endoflife.date/salt,,,2023-08-25,,2024-02-25,false,,false,,,,
 salt,3004,2023-04-18,3004.2,2021-10-12,2022-05-13,false,,https://endoflife.date/salt,,,2022-10-18,,2023-04-18,false,,false,,,,
-samsung-mobile,Galaxy A55 5G,2028-03-11,,2024-03-11,,false,https://doc.samsungmobile.com/sm-a556e/ins/doc.html,https://endoflife.date/samsung-mobile,,,2028-03-11,,2028-03-11,false,,false,,,,
-samsung-mobile,Galaxy A35 5G,2028-03-11,,2024-03-11,,false,https://doc.samsungmobile.com/SM-A356E/029619240319/eng.html,https://endoflife.date/samsung-mobile,,,2028-03-11,,2028-03-11,false,,false,,,,
+samsung-mobile,Galaxy S24 FE,2031-09-26,,2024-09-26,,false,https://doc.samsungmobile.com/sm-s721u/tmb/doc.html,https://endoflife.date/samsung-mobile,,,2031-09-26,,2031-09-26,false,,false,,,,
+samsung-mobile,Galaxy A55 5G,2029-03-11,,2024-03-11,,false,https://doc.samsungmobile.com/sm-a556e/ins/doc.html,https://endoflife.date/samsung-mobile,,,2028-03-11,,2029-03-11,false,,false,,,,
+samsung-mobile,Galaxy A35 5G,2029-03-11,,2024-03-11,,false,https://doc.samsungmobile.com/SM-A356U/TMB/doc.html,https://endoflife.date/samsung-mobile,,,2028-03-11,,2029-03-11,false,,false,,,,
 samsung-mobile,Galaxy S24 Ultra,2031-01-24,,2024-01-24,,false,https://doc.samsungmobile.com/SM-S928U1/XAA/doc.html,https://endoflife.date/samsung-mobile,,,2031-01-24,,2031-01-24,false,,false,,,,
 samsung-mobile,Galaxy S24+,2031-01-24,,2024-01-24,,false,https://doc.samsungmobile.com/SM-S926U1/XAA/doc.html,https://endoflife.date/samsung-mobile,,,2031-01-24,,2031-01-24,false,,false,,,,
 samsung-mobile,Galaxy S24,2031-01-24,,2024-01-24,,false,https://doc.samsungmobile.com/SM-S921U1/XAA/doc.html,https://endoflife.date/samsung-mobile,,,2031-01-24,,2031-01-24,false,,false,,,,

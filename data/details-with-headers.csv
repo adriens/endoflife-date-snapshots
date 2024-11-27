@@ -35,7 +35,7 @@ alpine,3.10,2021-05-01,3.10.9,2019-06-19,2021-04-14,false,https://alpinelinux.or
 alpine,3.9,2020-11-01,3.9.6,2019-01-29,2020-04-23,false,https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html,https://endoflife.date/alpine,,,,,2020-11-01,false,,false,,,,
 alpine,3.8,2020-05-01,3.8.5,2018-06-26,2020-01-23,false,https://git.alpinelinux.org/aports/log/?h=3.8-stable,https://endoflife.date/alpine,,,,,2020-05-01,false,,false,,,,
 alpine,3.7,2019-11-01,3.7.3,2017-11-30,2019-03-06,false,https://git.alpinelinux.org/aports/log/?h=3.7-stable,https://endoflife.date/alpine,,,,,2019-11-01,false,,false,,,,
-amazon-cdk,2,false,2.170.0,2021-12-01,2024-11-22,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
+amazon-cdk,2,false,2.171.0,2021-12-01,2024-11-25,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
 amazon-corretto,23,2025-04-30,23.0.1.8.1,2024-09-17,2024-10-16,false,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/,https://endoflife.date/amazon-corretto,,,,,2025-04-30,false,,false,,,,
 amazon-corretto,21,2030-10-31,21.0.5.11.1,2023-09-21,2024-10-16,true,,https://endoflife.date/amazon-corretto,,,,,2030-10-31,false,,true,,,,
 amazon-corretto,17,2029-10-31,17.0.13.11.1,2021-09-16,2024-10-16,true,,https://endoflife.date/amazon-corretto,,,,,2029-10-31,false,,true,,,,
@@ -107,6 +107,7 @@ amazon-rds-mariadb,10.6,2026-07-31,10.6.19,2022-02-03,2024-09-04,false,,https://
 amazon-rds-mariadb,10.5,2025-06-30,10.5.26,2021-01-21,2024-09-04,false,,https://endoflife.date/amazon-rds-mariadb,,,,,2025-06-30,false,,false,,,,
 amazon-rds-mariadb,10.4,2025-02-28,10.4.34,2020-04-06,2024-06-14,false,,https://endoflife.date/amazon-rds-mariadb,,,,,2025-02-28,false,,false,,,,
 amazon-rds-mariadb,10.3,2023-10-23,10.3.39,2018-10-23,2023-06-15,false,,https://endoflife.date/amazon-rds-mariadb,,,,,2023-10-23,false,,false,,,,
+amazon-rds-mysql,8.4,2029-07-31,8.4.3,2024-11-21,2024-11-21,false,,https://endoflife.date/amazon-rds-mysql,,2032-07-31,,,2029-07-31,false,,false,,,2032-07-31,
 amazon-rds-mysql,8.0,2026-07-31,8.0.40,2018-10-23,2024-11-13,false,,https://endoflife.date/amazon-rds-mysql,,2029-07-31,,,2026-07-31,false,,false,,,2029-07-31,
 amazon-rds-mysql,5.7,2024-02-29,5.7.44,2016-02-22,2023-11-02,false,,https://endoflife.date/amazon-rds-mysql,,2027-02-28,,,2024-02-29,false,,false,,,2027-02-28,
 amazon-rds-mysql,5.6,2022-03-01,5.6,2013-07-01,2013-07-01,false,,https://endoflife.date/amazon-rds-mysql,,false,,,2022-03-01,false,,false,,,,false
@@ -586,7 +587,7 @@ bootstrap,5,false,5.3.3,2021-05-05,2024-02-20,true,,https://endoflife.date/boots
 bootstrap,4,2023-01-01,4.6.2,2018-01-18,2022-07-19,true,,https://endoflife.date/bootstrap,,true,,,2023-01-01,false,,true,,,,true
 bootstrap,3,2019-07-24,3.4.1,2013-08-19,2019-02-13,false,,https://endoflife.date/bootstrap,,true,,,2019-07-24,false,,false,,,,true
 bootstrap,2,2013-08-19,2.3.2,2012-01-31,2013-07-26,false,,https://endoflife.date/bootstrap,,false,,,2013-08-19,false,,false,,,,false
-bun,1,false,1.1.36,2023-09-07,2024-11-19,false,,https://endoflife.date/bun,,,,,,false,,false,,,,
+bun,1,false,1.1.37,2023-09-07,2024-11-25,false,,https://endoflife.date/bun,,,,,,false,,false,,,,
 cakephp,4.5,2026-09-09,4.5.8,2023-10-14,2024-11-24,false,,https://endoflife.date/cakephp,,,2025-09-09,,2026-09-09,false,,false,,,,
 cakephp,5.1,false,5.1.2,2024-09-13,2024-11-09,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
 cakephp,5.0,false,5.0.11,2023-09-09,2024-09-12,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
@@ -1885,7 +1886,7 @@ isc-dhcp,4.4,2022-10-05,4.4.3-P1,2018-01-31,2022-10-05,false,,https://endoflife.
 isc-dhcp,4.1,2022-10-05,4.1-ESV-R16-P2,2008-12-19,2022-10-05,false,,https://endoflife.date/isc-dhcp,,,,,2022-10-05,false,,false,,,,
 isc-dhcp,4.3,2018-02-28,4.3.6-P1,2014-02-04,2018-02-28,false,,https://endoflife.date/isc-dhcp,,,,,2018-02-28,false,,false,,,,
 isc-dhcp,4.2,2015-03-05,4.2.8,2010-07-15,2015-03-05,false,,https://endoflife.date/isc-dhcp,,,,,2015-03-05,false,,false,,,,
-istio,1.24,2025-08-31,1.24.0,2024-11-07,2024-11-07,false,,https://endoflife.date/istio,,,,,2025-08-31,false,,false,,,,
+istio,1.24,2025-08-31,1.24.1,2024-11-07,2024-11-25,false,,https://endoflife.date/istio,,,,,2025-08-31,false,,false,,,,
 istio,1.23,2025-05-31,1.23.3,2024-08-14,2024-10-24,false,,https://endoflife.date/istio,,,,,2025-05-31,false,,false,,,,
 istio,1.22,2025-01-31,1.22.6,2024-05-13,2024-10-22,false,,https://endoflife.date/istio,,,,,2025-01-31,false,,false,,,,
 istio,1.21,2024-12-31,1.21.6,2024-03-13,2024-09-23,false,,https://endoflife.date/istio,,,,,2024-12-31,false,,false,,,,
@@ -2398,12 +2399,13 @@ mandrel,21.1,2021-07-20,21.1.0.0,2021-04-26,2021-04-26,false,,https://endoflife.
 mandrel,21.0,2021-04-26,21.0.0.0,2021-02-01,2021-02-01,false,https://github.com/graalvm/mandrel/releases/tag/mandrel-__LATEST__.Final,https://endoflife.date/mandrel,,,,,2021-04-26,false,,false,,,,
 mandrel,20.1,2021-04-20,20.1.0.4,2020-08-11,2021-01-21,false,https://github.com/graalvm/mandrel/releases/tag/mandrel-__LATEST__.Final,https://endoflife.date/mandrel,,,,,2021-04-20,false,,false,,,,
 mandrel,20.2,2021-01-08,20.2.0.0,2020-10-26,2020-10-26,false,https://github.com/graalvm/mandrel/releases/tag/mandrel-__LATEST__.Final,https://endoflife.date/mandrel,,,,,2021-01-08,false,,false,,,,
+mariadb,11.6,false,11.6.2,2024-11-21,2024-11-21,false,,https://endoflife.date/mariadb,,,,,,false,,false,,,,
 mariadb,11.4,2029-05-29,11.4.4,2024-05-29,2024-11-01,true,,https://endoflife.date/mariadb,,,,,2029-05-29,false,,true,,,,
 mariadb,11.2,2024-11-21,11.2.6,2023-11-21,2024-11-01,false,,https://endoflife.date/mariadb,,,,,2024-11-21,false,,false,,,,
 mariadb,10.11,2028-02-16,10.11.10,2023-02-16,2024-11-01,true,,https://endoflife.date/mariadb,,,,,2028-02-16,false,,true,,,,
 mariadb,10.6,2026-07-06,10.6.20,2021-07-06,2024-11-01,true,,https://endoflife.date/mariadb,,,,,2026-07-06,false,,true,,,,
 mariadb,10.5,2025-06-24,10.5.27,2020-06-24,2024-11-01,true,,https://endoflife.date/mariadb,,,,,2025-06-24,false,,true,,,,
-mariadb,11.5,false,11.5.2,2024-08-14,2024-08-14,false,,https://endoflife.date/mariadb,,,,,,false,,false,,,,
+mariadb,11.5,2024-11-21,11.5.2,2024-08-14,2024-08-14,false,,https://endoflife.date/mariadb,,,,,2024-11-21,false,,false,,,,
 mariadb,11.1,2024-08-21,11.1.6,2023-08-21,2024-08-08,false,,https://endoflife.date/mariadb,,,,,2024-08-21,false,,false,,,,
 mariadb,11.0,2024-06-06,11.0.6,2023-06-06,2024-05-15,false,,https://endoflife.date/mariadb,,,,,2024-06-06,false,,false,,,,
 mariadb,10.4,2024-06-18,10.4.34,2019-06-18,2024-05-15,true,,https://endoflife.date/mariadb,,,,,2024-06-18,false,,true,,,,
@@ -3309,8 +3311,8 @@ ovirt,4.2,2019-02-04,4.2.8.9,2017-12-04,2019-09-25,false,,https://endoflife.date
 ovirt,3.6,2016-06-23,3.6.13.5,2015-09-25,2018-05-25,false,,https://endoflife.date/ovirt,,,,,2016-06-23,false,,false,,,,
 ovirt,4.1,2017-12-17,4.1.11.2,2017-01-12,2018-04-17,false,,https://endoflife.date/ovirt,,,,,2017-12-17,false,,false,,,,
 ovirt,4.0,2017-01-12,4.0.7.5,2016-05-31,2017-06-06,false,,https://endoflife.date/ovirt,,,,,2017-01-12,false,,false,,,,
+pangp,6.0,2025-12-31,6.0.11,2022-02-22,2024-11-25,false,https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes/globalprotect-addressed-issues,https://endoflife.date/pangp,,,2025-12-31,,2025-12-31,false,,false,,,,
 pangp,6.2,2025-12-31,6.2.6,2023-05-23,2024-11-12,false,https://docs.paloaltonetworks.com/globalprotect/6-2/globalprotect-app-release-notes/globalprotect-addressed-issues,https://endoflife.date/pangp,,,2025-12-31,,2025-12-31,false,,false,,,,
-pangp,6.0,2025-12-31,6.0.10-c826,2022-02-22,2024-11-04,false,https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-release-notes/globalprotect-addressed-issues,https://endoflife.date/pangp,,,2025-12-31,,2025-12-31,false,,false,,,,
 pangp,6.3,2026-06-13,6.3.1-c383,2024-06-13,2024-10-14,false,https://docs.paloaltonetworks.com/globalprotect/6-3/globalprotect-app-release-notes/globalprotect-addressed-issues,https://endoflife.date/pangp,,,2026-06-13,,2026-06-13,false,,false,,,,
 pangp,6.1,2025-12-31,6.1.5,2022-09-01,2024-06-20,false,https://docs.paloaltonetworks.com/globalprotect/6-1/globalprotect-app-release-notes//globalprotect-addressed-issues,https://endoflife.date/pangp,,,2025-03-01,,2025-12-31,false,,false,,,,
 pangp,5.1,2024-12-31,5.1.12,2019-12-12,2024-02-12,false,https://docs.paloaltonetworks.com/globalprotect/5-1/globalprotect-app-release-notes,https://endoflife.date/pangp,,,2021-03-12,,2024-12-31,false,,false,,,,
@@ -4531,6 +4533,7 @@ splunk,7.3,2021-10-22,7.3.9,2019-06-04,2021-02-24,false,,https://endoflife.date/
 splunk,7.2,2021-04-30,7.2.10.1,2018-10-02,2020-04-27,false,https://docs.splunk.com/Documentation/Splunk/7.2.10/ReleaseNotes/MeetSplunk,https://endoflife.date/splunk,,,,,2021-04-30,false,,false,,,,
 splunk,7.1,2020-10-31,7.1.10,2018-04-24,2019-12-12,false,,https://endoflife.date/splunk,,,,,2020-10-31,false,,false,,,,
 splunk,7.0,2020-01-31,7.0.13.1,2017-09-26,2019-12-05,false,https://docs.splunk.com/Documentation/Splunk/7.0.13/ReleaseNotes/MeetSplunk,https://endoflife.date/splunk,,,,,2020-01-31,false,,false,,,,
+spring-boot,3.4,2025-11-21,3.4.0,2024-11-21,2024-11-21,false,,https://endoflife.date/spring-boot,,2027-02-21,,,2025-11-21,false,,false,,,2027-02-21,
 spring-boot,3.3,2025-05-23,3.3.5,2024-05-23,2024-10-24,false,,https://endoflife.date/spring-boot,,2026-08-23,,,2025-05-23,false,,false,,,2026-08-23,
 spring-boot,3.2,2024-11-23,3.2.10,2023-11-23,2024-09-19,false,,https://endoflife.date/spring-boot,,2026-02-23,,,2024-11-23,false,,false,,,2026-02-23,
 spring-boot,3.1,2024-05-18,3.1.12,2023-05-18,2024-05-23,false,,https://endoflife.date/spring-boot,,2025-08-18,,,2024-05-18,false,,false,,,2025-08-18,
@@ -4632,7 +4635,7 @@ suse-manager,3.1,2019-06-30,3.1.11,2017-06-27,2019-06-30,false,,https://endoflif
 suse-manager,3.0,2018-10-31,3.0.12,2016-04-05,2018-06-01,false,,https://endoflife.date/suse-manager,,,,,2018-10-31,false,,false,,,,
 suse-manager,2.1,2017-01-31,2.1.19,2014-06-02,2016-10-31,false,,https://endoflife.date/suse-manager,,,,,2017-01-31,false,,false,,,,
 suse-manager,1.7,2015-06-30,1.7.6,2012-08-09,2013-08-26,false,,https://endoflife.date/suse-manager,,,,,2015-06-30,false,,false,,,,
-svelte,5.2,false,5.2.7,2024-11-14,2024-11-20,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
+svelte,5.2,false,5.2.8,2024-11-14,2024-11-25,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
 svelte,5.1,2024-11-14,5.1.17,2024-10-23,2024-11-14,false,,https://endoflife.date/svelte,,false,2024-11-14,,2024-11-14,false,,false,,,,false
 svelte,5.0,2024-10-23,5.0.5,2024-10-19,2024-10-21,false,,https://endoflife.date/svelte,,false,2024-10-23,,2024-10-23,false,,false,,,,false
 svelte,4.2,2024-10-19,4.2.19,2023-08-11,2024-08-23,false,,https://endoflife.date/svelte,,false,2024-10-19,,2024-10-19,false,,false,,,,false
@@ -4816,7 +4819,7 @@ umbraco,9,2022-12-16,9.5.4,2021-09-28,2022-09-05,false,,https://endoflife.date/u
 umbraco,6,2018-05-01,6.2.6,2013-03-27,2016-03-03,false,https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/,https://endoflife.date/umbraco,,,2018-05-01,,2018-05-01,false,,false,,,,
 unity,2022.3,false,2022.3.53f1,2023-05-30,2024-11-19,true,,https://endoflife.date/unity,,,,,,false,,true,,,,
 unity,6,false,6000.0.27f1,2024-04-29,2024-11-14,false,,https://endoflife.date/unity,,,,,,false,,false,,,,
-unity,2021.3,2024-04-19,2021.3.44f1,2022-04-11,2024-09-23,false,,https://endoflife.date/unity,,,,,2024-04-19,false,,false,,,,
+unity,2021.3,2024-04-19,2021.3.46f1,2022-04-11,2024-11-13,false,,https://endoflife.date/unity,,,,,2024-04-19,false,,false,,,,
 unity,2021,2024-04-19,2021.3.42f1,2022-04-11,2024-08-06,true,,https://endoflife.date/unity,,,,,2024-04-19,false,,true,,,,
 unity,2023.2,2024-04-29,2023.2.20f1,2023-11-14,2024-04-25,false,,https://endoflife.date/unity,,,,,2024-04-29,false,,false,,,,
 unity,2023.1,2023-11-13,2023.1.20f1,2023-06-12,2023-11-09,false,,https://endoflife.date/unity,,,,,2023-11-13,false,,false,,,,
@@ -5169,7 +5172,7 @@ xcp-ng,8.0,2020-11-13,8.0.0,2019-07-25,2019-07-18,false,,https://endoflife.date/
 xcp-ng,7.6,2020-03-30,7.6.0,2018-10-31,2018-10-10,false,,https://endoflife.date/xcp-ng,,,,,2020-03-30,false,,false,,,,
 xcp-ng,7.5,2019-07-25,7.5.0,2018-08-10,2018-08-09,false,,https://endoflife.date/xcp-ng,,,,,2019-07-25,false,,false,,,,
 xcp-ng,7.4,2018-10-31,7.4.0,2018-03-31,2018-03-31,false,,https://endoflife.date/xcp-ng,,,,,2018-10-31,false,,false,,,,
-yarn,4,false,4.5.2,2023-10-22,2024-11-22,false,,https://endoflife.date/yarn,,,,,,false,,false,,,,
+yarn,4,false,4.5.3,2023-10-22,2024-11-25,false,,https://endoflife.date/yarn,,,,,,false,,false,,,,
 yarn,3,false,3.8.6,2021-07-26,2024-10-18,false,,https://endoflife.date/yarn,,,,,,false,,false,,,,
 yarn,1,false,1.22.22,2017-09-05,2024-03-09,false,https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__,https://endoflife.date/yarn,,,,,,false,,false,,,,
 yarn,2,2021-09-06,2.4.3,2020-07-09,2021-09-06,false,,https://endoflife.date/yarn,,,,,2021-09-06,false,,false,,,,

@@ -217,7 +217,7 @@ apache-activemq,5.3,2010-08-13,5.3.1,2009-10-23,2010-03-18,false,"https://active
 apache-activemq,5.2,2009-10-23,5.2.0,2009-06-30,2009-06-30,false,"https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release",https://endoflife.date/apache-activemq,,,,,2009-10-23,false,,false,,,,
 apache-activemq,5.1,2009-06-30,5.1.0,2008-05-01,2008-05-01,false,"https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release",https://endoflife.date/apache-activemq,,,,,2009-06-30,false,,false,,,,
 apache-activemq,5.0,2008-05-01,5.0.0,2007-12-07,2007-12-07,false,"https://activemq.apache.org/activemq-{{'__LATEST__'|replace:'.','00'}}-release",https://endoflife.date/apache-activemq,,,,,2008-05-01,false,,false,,,,
-apache-airflow,2,false,2.10.3,2020-12-17,2024-11-05,false,,https://endoflife.date/apache-airflow,,,,true,,false,,false,,,,
+apache-airflow,2,false,2.10.4,2020-12-17,2024-12-16,false,,https://endoflife.date/apache-airflow,,,,true,,false,,false,,,,
 apache-airflow,1.10,2021-06-17,1.10.15,2018-08-27,2021-03-17,false,,https://endoflife.date/apache-airflow,,,2020-12-17,,2021-06-17,false,,false,,,,
 apache-airflow,1.9,2018-08-27,1.9.0,2018-01-02,2018-01-02,false,,https://endoflife.date/apache-airflow,,,2018-08-27,,2018-08-27,false,,false,,,,
 apache-airflow,1.8,2018-01-03,1.8.2,2017-05-09,2017-09-04,false,,https://endoflife.date/apache-airflow,,,2018-01-03,,2018-01-03,false,,false,,,,
@@ -721,11 +721,11 @@ clamav,0.102,2022-01-03,0.102.4,2019-10-02,2020-07-15,false,,https://endoflife.d
 clamav,0.101,2022-01-03,0.101.5,2018-12-02,2019-11-20,false,,https://endoflife.date/clamav,,,,,2022-01-03,false,,false,,,,
 clamav,0.100,2021-10-29,0.100.3,2018-04-04,2019-03-26,false,,https://endoflife.date/clamav,,,,,2021-10-29,false,,false,,,,
 clamav,0.99,2021-03-01,0.99.4,2015-11-25,2018-03-01,false,,https://endoflife.date/clamav,,,,,2021-03-01,false,,false,,,,
-cockroachdb,24.3,2026-05-18,24.3.0,2024-11-18,2024-11-20,false,,https://endoflife.date/cockroachdb,,,2025-11-18,,2026-05-18,false,,false,,,,
-cockroachdb,23.2,2025-08-05,23.2.16,2024-02-05,2024-11-13,2026-07-08,,https://endoflife.date/cockroachdb,,,2025-02-05,,2025-08-05,false,2026-07-08,,,,,
-cockroachdb,24.2,2025-02-12,24.2.5,2024-08-12,2024-11-11,false,,https://endoflife.date/cockroachdb,,,2025-02-12,,2025-02-12,false,,false,,,,
-cockroachdb,24.1,2025-11-20,24.1.7,2024-05-20,2024-11-11,2026-10-21,,https://endoflife.date/cockroachdb,,,2025-05-20,,2025-11-20,false,2026-10-21,,,,,
-cockroachdb,23.1,2024-11-15,23.1.29,2023-05-15,2024-11-11,2023-11-13,,https://endoflife.date/cockroachdb,,,2024-05-15,,2024-11-15,false,2023-11-13,,,,,
+cockroachdb,24.3,2026-05-18,24.3.1,2024-11-18,2024-12-13,false,,https://endoflife.date/cockroachdb,,,2025-11-18,,2026-05-18,false,,false,,,,
+cockroachdb,24.1,2025-11-20,24.1.8,2024-05-20,2024-12-09,2026-10-21,,https://endoflife.date/cockroachdb,,,2025-05-20,,2025-11-20,false,2026-10-21,,,,,
+cockroachdb,24.2,2025-02-12,24.2.6,2024-08-12,2024-12-06,false,,https://endoflife.date/cockroachdb,,,2025-02-12,,2025-02-12,false,,false,,,,
+cockroachdb,23.2,2025-08-05,23.2.17,2024-02-05,2024-11-22,2026-07-08,,https://endoflife.date/cockroachdb,,,2025-02-05,,2025-08-05,false,2026-07-08,,,,,
+cockroachdb,23.1,2024-11-15,23.1.30,2023-05-15,2024-11-19,2023-11-13,,https://endoflife.date/cockroachdb,,,2024-05-15,,2024-11-15,false,2023-11-13,,,,,
 cockroachdb,22.2,2024-06-05,22.2.19,2022-12-05,2024-02-23,false,,https://endoflife.date/cockroachdb,,,2023-12-05,,2024-06-05,false,,false,,,,
 cockroachdb,22.1,2023-11-24,22.1.22,2022-05-24,2023-08-01,false,,https://endoflife.date/cockroachdb,,,2023-05-24,,2023-11-24,false,,false,,,,
 cockroachdb,21.2,2023-05-16,21.2.17,2021-11-16,2022-10-12,false,,https://endoflife.date/cockroachdb,,,2022-11-16,,2023-05-16,false,,false,,,,
@@ -738,8 +738,8 @@ cockroachdb,2.1,2020-04-30,2.1.11,2018-10-30,2020-01-22,false,,https://endoflife
 cockroachdb,2.0,2019-10-04,2.0.7,2018-04-04,2018-11-28,false,,https://endoflife.date/cockroachdb,,,2019-04-04,,2019-10-04,false,,false,,,,
 cockroachdb,1.1,2019-04-12,1.1.9,2017-10-12,2018-10-01,false,,https://endoflife.date/cockroachdb,,,2018-10-12,,2019-04-12,false,,false,,,,
 cockroachdb,1.0,2018-11-10,1.0.7,2017-05-10,2018-02-11,false,,https://endoflife.date/cockroachdb,,,2018-05-10,,2018-11-10,false,,false,,,,
+coder,2.18,false,2.18.1,2024-12-03,2024-12-16,false,,https://endoflife.date/coder,,,,true,,false,,false,,,,
 coder,2.17,false,2.17.3,2024-11-05,2024-12-13,false,,https://endoflife.date/coder,,,,true,,false,,false,,,,
-coder,2.18,false,2.18.0,2024-12-03,2024-12-03,false,,https://endoflife.date/coder,,,,true,,false,,false,,,,
 coder,2.16,false,2.16.1,2024-10-01,2024-10-28,false,,https://endoflife.date/coder,,,2024-12-03,,,false,,false,,,,
 coder,2.15,2024-12-03,2.15.4,2024-09-03,2024-10-28,false,,https://endoflife.date/coder,,,2024-11-05,,2024-12-03,false,,false,,,,
 coder,2.14,2024-11-05,2.14.4,2024-08-06,2024-10-28,false,,https://endoflife.date/coder,,,2024-10-01,,2024-11-05,false,,false,,,,
@@ -889,7 +889,7 @@ craft-cms,5,2028-04-30,5.5.6.1,2024-03-26,2024-12-11,false,,https://endoflife.da
 craft-cms,4,2026-04-30,4.13.6,2022-05-04,2024-12-10,false,,https://endoflife.date/craft-cms,,,2025-04-30,,2026-04-30,false,,false,,,,
 craft-cms,3,2024-04-30,3.9.13,2018-04-04,2024-04-03,false,,https://endoflife.date/craft-cms,,,2023-04-30,,2024-04-30,false,,false,,,,
 craft-cms,2,2022-01-31,2.9.2,2014-04-01,2020-03-06,false,,https://endoflife.date/craft-cms,,,2020-01-31,,2022-01-31,false,,false,,,,
-dbt-core,1.9,2025-12-09,1.9.0,2024-12-09,2024-12-09,false,,https://endoflife.date/dbt-core,,,,true,2025-12-09,false,,false,,,,
+dbt-core,1.9,2025-12-09,1.9.1,2024-12-09,2024-12-16,false,,https://endoflife.date/dbt-core,,,,true,2025-12-09,false,,false,,,,
 dbt-core,1.7,2024-11-02,1.7.19,2023-11-02,2024-12-02,false,,https://endoflife.date/dbt-core,,,2024-05-09,,2024-11-02,false,,false,,,,
 dbt-core,1.8,2025-05-09,1.8.9,2024-05-09,2024-11-21,false,,https://endoflife.date/dbt-core,,,2024-12-09,,2025-05-09,false,,false,,,,
 dbt-core,1.6,2024-07-30,1.6.18,2023-07-31,2024-08-07,false,,https://endoflife.date/dbt-core,,,2023-11-02,,2024-07-30,false,,false,,,,
@@ -1263,7 +1263,7 @@ filemaker,2023,2025-04-30,,2023-04-30,,false,https://help.claris.com/en/server-r
 filemaker,19.6,2024-12-31,,2022-12-31,,false,https://support.claris.com/s/answerview?anum=000036025,https://endoflife.date/filemaker,,,,,2024-12-31,false,,false,,,,
 filemaker,19.5,2024-06-30,,2022-06-30,,false,https://support.claris.com/s/answerview?anum=000035967,https://endoflife.date/filemaker,,,,,2024-06-30,false,,false,,,,
 filemaker,19.4,2023-12-31,,2021-12-01,,false,https://support.claris.com/s/answerview?anum=000035759,https://endoflife.date/filemaker,,,,,2023-12-31,false,,false,,,,
-filemaker,19.3,2023-07-01,,2021-06-30,,false,https://support.claris.com/s/answerview?anum=000035756,https://endoflife.date/filemaker,,,,,2023-07-01,false,,false,,,,
+filemaker,19.3,2023-07-31,,2021-06-30,,false,https://support.claris.com/s/answerview?anum=000035756,https://endoflife.date/filemaker,,,,,2023-07-31,false,,false,,,,
 filemaker,19.2,2023-03-31,,2021-03-31,,false,https://support.claris.com/s/answerview?anum=000035415,https://endoflife.date/filemaker,,,,,2023-03-31,false,,false,,,,
 filemaker,19.1,2022-10-31,,2020-09-30,,false,https://support.claris.com/s/answerview?anum=000035283,https://endoflife.date/filemaker,,,,,2022-10-31,false,,false,,,,
 filemaker,19,2022-05-31,,2020-05-31,,false,https://support.claris.com/s/answerview?anum=000034875,https://endoflife.date/filemaker,,,,,2022-05-31,false,,false,,,,
@@ -2680,19 +2680,40 @@ msexchange,2000,2011-01-11,6.0.6620.7,2000-11-29,2008-08-01,false,,https://endof
 msexchange,5.5,2006-01-10,5.5.2653,1998-02-03,2000-11-01,false,,https://endoflife.date/msexchange,,,2003-12-31,,2006-01-10,false,,false,,,,
 msexchange,4.0,true,4.0.996,1996-06-11,1998-05-05,false,,https://endoflife.date/msexchange,,,,,,true,,false,,,,
 msexchange,5.0,2006-01-10,5.0.1460,1997-05-23,1998-02-19,false,,https://endoflife.date/msexchange,,,2003-12-31,,2006-01-10,false,,false,,,,
-mssqlserver,15.0,2030-01-08,15.0.4415.2,2019-11-04,2024-12-12,false,https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate30,https://endoflife.date/mssqlserver,,false,2025-01-07,,2030-01-08,false,,false,,,,false
-mssqlserver,16.0,2033-01-11,16.0.4165.4,2022-11-16,2024-11-14,false,https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16,https://endoflife.date/mssqlserver,,false,2028-01-11,,2033-01-11,false,,false,,,,false
-mssqlserver,14.0,2027-10-12,14.0.3485.1,2017-09-29,2024-11-12,false,https://support.microsoft.com/help/5046858,https://endoflife.date/mssqlserver,,false,2022-10-11,,2027-10-12,false,,false,,,,false
-mssqlserver,13.0,2026-07-14,13.0.6455.2,2016-06-01,2024-11-12,false,https://support.microsoft.com/help/5046855,https://endoflife.date/mssqlserver,,false,2021-07-13,,2026-07-14,false,,false,,,,false
-mssqlserver,12.0,2024-07-09,12.0.6449.1,2014-06-05,2023-10-10,false,https://support.microsoft.com/help/5029185,https://endoflife.date/mssqlserver,,2027-07-12,2019-07-09,,2024-07-09,false,,false,,,2027-07-12,
-mssqlserver,11.0,2022-07-12,11.0.7512.11,2012-05-20,2023-02-14,false,https://support.microsoft.com/help/5021123,https://endoflife.date/mssqlserver,,2025-07-08,2017-07-11,,2022-07-12,false,,false,,,2025-07-08,
-mssqlserver,10.50,2019-07-09,10.50.6785.2,2010-07-20,2023-02-14,false,https://support.microsoft.com/help/5021112,https://endoflife.date/mssqlserver,,2022-07-12,2014-07-08,,2019-07-09,false,,false,,,2022-07-12,
-mssqlserver,10.0,2019-07-09,10.0.6814.4,2008-11-06,2023-02-14,false,https://support.microsoft.com/help/5020863,https://endoflife.date/mssqlserver,,2022-07-12,2014-07-08,,2019-07-09,false,,false,,,2022-07-12,
-mssqlserver,9.0,2016-04-12,9.0.5324.0,2006-01-14,2012-10-09,false,https://support.microsoft.com/help/2716427,https://endoflife.date/mssqlserver,,false,2011-04-12,,2016-04-12,false,,false,,,,false
-mssqlserver,8.0,2013-04-09,8.0.2305,2000-11-30,2012-08-14,false,https://support.microsoft.com/help/983811,https://endoflife.date/mssqlserver,,false,2008-04-08,,2013-04-09,false,,false,,,,false
-mssqlserver,7.0,2011-01-11,7.0.1152,1998-11-27,2012-05-09,false,https://support.microsoft.com/help/941203,https://endoflife.date/mssqlserver,,false,2005-12-31,,2011-01-11,false,,false,,,,false
-mssqlserver,6.5,2002-01-01,6.50.480,1996-06-30,2005-10-07,false,https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/238621,https://endoflife.date/mssqlserver,,false,2002-01-01,,2002-01-01,false,,false,,,,false
-mssqlserver,6.0,1999-03-31,6.0.151,1995-06-13,2005-10-07,false,https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/152616,https://endoflife.date/mssqlserver,,false,1999-03-31,,1999-03-31,false,,false,,,,false
+mssqlserver,15.0,2030-01-08,15.0.4415.2 CU30,2019-11-04,2024-12-12,false,https://learn.microsoft.com/troubleshoot/sql/releases/sqlserver-2019/cumulativeupdate30,https://endoflife.date/mssqlserver,,false,2025-02-28,,2030-01-08,false,,false,,,,false
+mssqlserver,16.0,2033-01-11,16.0.4165.4 CU16,2022-11-16,2024-11-14,false,https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16,https://endoflife.date/mssqlserver,,false,2028-01-11,,2033-01-11,false,,false,,,,false
+mssqlserver,14.0,2027-10-12,14.0.3485.1 CU31+GDR,2017-09-29,2024-11-14,false,https://support.microsoft.com/help/5046858,https://endoflife.date/mssqlserver,,false,2022-10-11,,2027-10-12,false,,false,,,,false
+mssqlserver,13.0-sp3,2026-07-14,13.0.6455.2 GDR,2021-09-15,2024-11-12,false,https://support.microsoft.com/help/5046855,https://endoflife.date/mssqlserver,,false,2026-07-14,,2026-07-14,false,,false,,,,false
+mssqlserver,12.0-sp3,2024-07-09,12.0.6449.1 CU4+GDR,2018-10-30,2023-10-10,false,https://support.microsoft.com/help/5029185,https://endoflife.date/mssqlserver,,2027-07-12,2019-07-09,,2024-07-09,false,,false,,,2027-07-12,
+mssqlserver,11.0-sp4,2022-07-12,11.0.7512.11 GDR,2017-10-05,2023-02-14,false,https://support.microsoft.com/help/5021123,https://endoflife.date/mssqlserver,,2025-07-08,2022-07-12,,2022-07-12,false,,false,,,2025-07-08,
+mssqlserver,10.50-sp3,2019-07-09,10.50.6785.2 GDR,2014-07-07,2023-02-14,false,https://support.microsoft.com/help/5021112,https://endoflife.date/mssqlserver,,2022-07-12,2014-07-08,,2019-07-09,false,,false,,,2022-07-12,
+mssqlserver,10.0-sp4,2019-07-09,10.0.6814.4 CU17+GDR,2014-07-07,2023-02-14,false,https://support.microsoft.com/help/5020863,https://endoflife.date/mssqlserver,,2022-07-12,2014-07-08,,2019-07-09,false,,false,,,2022-07-12,
+mssqlserver,12.0-sp2,2020-01-14,12.0.5687.1 CU18,2016-07-14,2019-07-29,false,https://support.microsoft.com/help/4500180,https://endoflife.date/mssqlserver,,false,2020-01-14,,2020-01-14,false,,false,,,,false
+mssqlserver,13.0-sp2,2022-10-11,13.0.5893.48 CU17+GDR,2018-04-24,2019-07-09,false,https://support.microsoft.com/help/5014351,https://endoflife.date/mssqlserver,,false,2022-10-11,,2022-10-11,false,,false,,,,false
+mssqlserver,13.0-sp1,2019-07-09,13.0.4604.0 CU15+GDR,2016-11-16,2019-07-09,false,https://support.microsoft.com/help/4505221,https://endoflife.date/mssqlserver,,false,2019-07-09,,2019-07-09,false,,false,,,,false
+mssqlserver,11.0-sp3,2018-10-09,11.0.6614.2 CU10+QFE,2015-12-01,2018-01-16,false,https://support.microsoft.com/help/4057121,https://endoflife.date/mssqlserver,,false,2018-10-09,,2018-10-09,false,,false,,,,false
+mssqlserver,13.0,2018-01-09,13.0.2218.0 CU9+GDR,2016-06-01,2018-01-06,false,https://support.microsoft.com/help/4058559,https://endoflife.date/mssqlserver,,false,2018-01-09,,2018-01-09,false,,false,,,,false
+mssqlserver,12.0-sp1,2017-10-10,12.0.4522.0 CU13,2015-04-14,2017-08-08,false,https://support.microsoft.com/help/4019099,https://endoflife.date/mssqlserver,,false,2017-10-10,,2017-10-10,false,,false,,,,false
+mssqlserver,11.0-sp2,2017-01-10,11.0.5678.0 CU16,2014-06-10,2016-11-17,false,https://support.microsoft.com/help/3205054,https://endoflife.date/mssqlserver,,false,2017-01-10,,2017-01-10,false,,false,,,,false
+mssqlserver,12.0,2016-07-12,12.0.2569.0 CU14,2014-06-05,2016-06-20,false,https://support.microsoft.com/help/3158271,https://endoflife.date/mssqlserver,,false,2016-07-12,,2016-07-12,false,,false,,,,false
+mssqlserver,11.0-sp1,2015-07-14,11.0.3513.0 CU13+QFE,2012-11-07,2015-07-14,false,https://support.microsoft.com/help/3045317,https://endoflife.date/mssqlserver,,false,2015-07-14,,2015-07-14,false,,false,,,,false
+mssqlserver,10.50-sp2,2015-10-13,10.50.4339.0 CU13+QFE,2012-07-26,2015-07-14,false,https://support.microsoft.com/help/3045312,https://endoflife.date/mssqlserver,,false,2015-10-13,,2015-10-13,false,,false,,,,false
+mssqlserver,10.00-sp3,2015-10-13,10.00.5861 CU16+QFE,2011-10-06,2015-07-14,false,https://support.microsoft.com/help/3045303,https://endoflife.date/mssqlserver,,false,2015-10-13,,2015-10-13,false,,false,,,,false
+mssqlserver,10.50-sp1,2013-10-08,10.50.2881.0 CU14,2011-07-12,2013-08-08,false,https://support.microsoft.com/help/2868244,https://endoflife.date/mssqlserver,,false,2013-10-08,,2013-10-08,false,,false,,,,false
+mssqlserver,11.0,2014-01-14,11.0.2424.0 CU11,2012-05-20,2012-12-16,false,https://support.microsoft.com/help/2908007,https://endoflife.date/mssqlserver,,false,2014-01-14,,2014-01-14,false,,false,,,,false
+mssqlserver,9.0-sp4,2016-04-12,9.0.5324.0 QFE,2010-12-13,2012-10-09,false,https://support.microsoft.com/help/2716427,https://endoflife.date/mssqlserver,,false,2011-04-12,,2016-04-12,false,,false,,,,false
+mssqlserver,10.00-sp2,2012-10-09,10.00.4371 CU10+QFE,2010-09-24,2012-10-09,false,https://support.microsoft.com/help/2716433,https://endoflife.date/mssqlserver,,false,2012-10-09,,2012-10-09,false,,false,,,,false
+mssqlserver,8.0-sp4,2013-04-09,8.0.2305 QFE,2005-05-06,2012-08-14,false,https://support.microsoft.com/help/983811,https://endoflife.date/mssqlserver,,false,2008-04-08,,2013-04-09,false,,false,,,,false
+mssqlserver,7.0-sp4,2011-01-11,7.0.1152,2002-04-26,2012-05-09,false,https://support.microsoft.com/help/941203,https://endoflife.date/mssqlserver,,false,2005-12-31,,2011-01-11,false,,false,,,,false
+mssqlserver,10.50-r2,2012-07-10,10.50.1815.0 CU13,2010-07-20,2012-04-16,false,https://support.microsoft.com/help/2679366,https://endoflife.date/mssqlserver,,false,2012-07-10,,2012-07-10,false,,false,,,,false
+mssqlserver,10.00-sp1,2011-10-11,10.00.2850 CU16,2009-03-31,2011-09-19,false,https://support.microsoft.com/help/2582282,https://endoflife.date/mssqlserver,,false,2011-10-11,,2011-10-11,false,,false,,,,false
+mssqlserver,9.00-sp3,2012-01-10,9.00.4309 CU11,2008-12-15,2010-08-16,false,https://support.microsoft.com/help/2258854,https://endoflife.date/mssqlserver,,false,2012-01-10,,2012-01-10,false,,false,,,,false
+mssqlserver,10.00,2010-04-13,10.00.1835 CU10,2008-11-06,2010-03-15,false,https://support.microsoft.com/help/979064,https://endoflife.date/mssqlserver,,false,2010-04-13,,2010-04-13,false,,false,,,,false
+mssqlserver,9.00-sp2,2010-01-12,9.00.3325 CU13,2007-02-19,2009-04-20,false,https://support.microsoft.com/help/967908,https://endoflife.date/mssqlserver,,false,2010-01-12,,2010-01-12,false,,false,,,,false
+mssqlserver,9.0-sp1,2008-04-08,9.0.2233,2006-04-18,2007-05-16,false,https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/937545,https://endoflife.date/mssqlserver,,false,2008-04-08,,2008-04-08,false,,false,,,,false
+mssqlserver,9.0,2007-07-10,9.0.1399,2006-01-14,2006-01-14,false,https://learn.microsoft.com/lifecycle/products/microsoft-sql-server-2005,https://endoflife.date/mssqlserver,,false,2007-07-10,,2007-07-10,false,,false,,,,false
+mssqlserver,6.50-sp5a,2002-01-01,6.50.480,1998-12-24,2005-10-07,false,https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/238621,https://endoflife.date/mssqlserver,,false,2002-01-01,,2002-01-01,false,,false,,,,false
+mssqlserver,6.0-sp3,1999-03-31,6.0.151,1995-06-13,2000-12-22,false,https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/152616,https://endoflife.date/mssqlserver,,false,1999-03-31,,1999-03-31,false,,false,,,,false
 mulesoft-runtime,4.6,2026-02-06,4.6.6,2024-02-06,2024-08-15,true,https://docs.mulesoft.com/release-notes/mule-runtime/mule-4.6.0-release-notes,https://endoflife.date/mulesoft-runtime,,,2025-02-06,,2026-02-06,false,,true,,,,
 mulesoft-runtime,4.4,2025-10-08,4.4.0-20240424,2021-09-07,2024-04-24,false,,https://endoflife.date/mulesoft-runtime,,,2024-10-08,,2025-10-08,false,,false,,,,
 mulesoft-runtime,4.3,2025-03-07,4.3.0-20240424,2020-04-30,2024-04-24,false,,https://endoflife.date/mulesoft-runtime,,,2023-03-07,,2025-03-07,false,,false,,,,
@@ -2786,9 +2807,9 @@ nextjs,9,2020-10-27,9.5.5,2019-07-08,2020-10-10,false,,https://endoflife.date/ne
 nexus,3.75,2026-06-03,3.75.1-01,2024-12-03,2024-12-06,false,,https://endoflife.date/nexus,,,2025-12-03,,2026-06-03,false,,false,,,,
 nexus,3.74,2026-05-05,3.74.0-05,2024-11-05,2024-11-05,false,,https://endoflife.date/nexus,,,2025-11-05,,2026-05-05,false,,false,,,,
 nexus,3.73,2026-04-10,3.73.0-12,2024-10-10,2024-10-10,false,,https://endoflife.date/nexus,,,2025-10-10,,2026-04-10,false,,false,,,,
+nexus,3.70,2026-01-09,3.70.3-01,2024-07-09,2024-10-10,false,"https://help.sonatype.com/en/sonatype-nexus-repository-{{'__RELEASE_CYCLE__'|replace:'.','-'}}-0-release-notes.html",https://endoflife.date/nexus,,,2025-07-09,,2026-01-09,false,,false,,,,
 nexus,3.72,2026-03-04,3.72.0-04,2024-09-04,2024-09-05,false,,https://endoflife.date/nexus,,,2025-09-04,,2026-03-04,false,,false,,,,
 nexus,3.71,2026-02-08,3.71.0-06,2024-08-08,2024-08-09,false,,https://endoflife.date/nexus,,,2025-08-08,,2026-02-08,false,,false,,,,
-nexus,3.70,2026-01-09,3.70.1-02,2024-07-09,2024-07-11,false,,https://endoflife.date/nexus,,,2025-07-09,,2026-01-09,false,,false,,,,
 nexus,3.69,2025-12-04,3.69.0-02,2024-06-04,2024-06-04,false,,https://endoflife.date/nexus,,,2025-06-04,,2025-12-04,false,,false,,,,
 nexus,3.68,2025-11-07,3.68.1-02,2024-05-07,2024-05-24,false,,https://endoflife.date/nexus,,,2025-05-07,,2025-11-07,false,,false,,,,
 nexus,3.67,2025-10-02,3.67.1-01,2024-04-02,2024-04-10,false,,https://endoflife.date/nexus,,,2025-04-02,,2025-10-02,false,,false,,,,
@@ -3894,8 +3915,8 @@ robo,4,false,4.0.6,,2023-04-30,false,,https://endoflife.date/robo,,,,true,,false
 robo,3,true,3.0.12,,2023-04-30,false,,https://endoflife.date/robo,,,,,,true,,false,,,,
 robo,1,true,1.5.0,,2021-10-07,false,,https://endoflife.date/robo,,,,,,true,,false,,,,
 robo,2,true,2.2.2,,2020-12-18,false,,https://endoflife.date/robo,,,,,,true,,false,,,,
-rocket-chat,7.0,2025-04-30,7.0.2,2024-10-31,2024-12-12,false,,https://endoflife.date/rocket-chat,,,2024-10-31,,2025-04-30,false,,false,,,,
-rocket-chat,6.10,2025-01-31,6.10.8,2024-07-10,2024-12-05,false,,https://endoflife.date/rocket-chat,,,2024-07-10,,2025-01-31,false,,false,,,,
+rocket-chat,7.0,2025-04-30,7.0.3,2024-10-31,2024-12-17,false,,https://endoflife.date/rocket-chat,,,2024-10-31,,2025-04-30,false,,false,,,,
+rocket-chat,6.10,2025-01-31,6.10.9,2024-07-10,2024-12-16,false,,https://endoflife.date/rocket-chat,,,2024-07-10,,2025-01-31,false,,false,,,,
 rocket-chat,7.1,2025-06-30,7.1.0,2024-12-04,2024-12-04,false,,https://endoflife.date/rocket-chat,,,2024-12-31,,2025-06-30,false,,false,,,,
 rocket-chat,6.13,2025-04-30,6.13.1,2024-10-10,2024-12-04,false,,https://endoflife.date/rocket-chat,,,2024-10-10,,2025-04-30,false,,false,,,,
 rocket-chat,6.12,2025-03-31,6.12.3,2024-09-05,2024-12-04,false,,https://endoflife.date/rocket-chat,,,2024-09-05,,2025-03-31,false,,false,,,,
@@ -4528,7 +4549,7 @@ shopware,5.0,true,5.0.4,2015-04-27,2015-09-16,false,https://github.com/shopware5
 silverstripe,5.3,2025-10-31,5.3.0,2024-11-30,2024-11-04,false,,https://endoflife.date/silverstripe,,,2025-04-30,,2025-10-31,false,,false,,,,
 silverstripe,5.2,2025-04-30,5.2.5,2024-04-15,2024-09-13,false,,https://endoflife.date/silverstripe,,,2024-10-31,,2025-04-30,false,,false,,,,
 silverstripe,5.1,2024-10-17,5.1.6,2023-10-17,2024-02-10,false,,https://endoflife.date/silverstripe,,,2024-04-17,,2024-10-17,false,,false,,,,
-silverstripe,4.13,2025-04-30,4.13.13,2023-04-26,2024-02-08,false,,https://endoflife.date/silverstripe,,,2024-04-17,,2025-04-30,false,,false,,,,
+silverstripe,4.13,2025-06-30,4.13.13,2023-04-26,2024-02-08,false,,https://endoflife.date/silverstripe,,,2024-04-17,,2025-06-30,false,,false,,,,
 silverstripe,5.0,2024-04-17,5.0.7,2023-05-04,2023-09-23,false,,https://endoflife.date/silverstripe,,,2023-10-17,,2024-04-17,false,,false,,,,
 silverstripe,4.12,2023-10-26,4.12.7,2022-12-19,2023-05-31,false,,https://endoflife.date/silverstripe,,,2023-04-26,,2023-10-26,false,,false,,,,
 silverstripe,4.11,2023-05-19,4.11.16,2022-05-11,2023-05-31,false,,https://endoflife.date/silverstripe,,,2022-12-19,,2023-05-19,false,,false,,,,
@@ -4706,7 +4727,7 @@ suse-manager,3.1,2019-06-30,3.1.11,2017-06-27,2019-06-30,false,,https://endoflif
 suse-manager,3.0,2018-10-31,3.0.12,2016-04-05,2018-06-01,false,,https://endoflife.date/suse-manager,,,,,2018-10-31,false,,false,,,,
 suse-manager,2.1,2017-01-31,2.1.19,2014-06-02,2016-10-31,false,,https://endoflife.date/suse-manager,,,,,2017-01-31,false,,false,,,,
 suse-manager,1.7,2015-06-30,1.7.6,2012-08-09,2013-08-26,false,,https://endoflife.date/suse-manager,,,,,2015-06-30,false,,false,,,,
-svelte,5,false,5.14.0,2024-10-19,2024-12-15,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
+svelte,5,false,5.14.1,2024-10-19,2024-12-16,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
 svelte,4,2024-10-19,4.2.19,2023-06-22,2024-08-23,false,,https://endoflife.date/svelte,,false,2024-10-19,,2024-10-19,false,,false,,,,false
 svelte,3,2023-06-22,3.59.2,2019-04-21,2023-06-20,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2023-06-22,,2023-06-22,false,,false,,,,false
 svelte,2,2019-04-21,2.16.1,2018-04-19,2019-02-08,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2019-04-21,,2019-04-21,false,,false,,,,false
@@ -4811,8 +4832,8 @@ tomcat,7,2021-03-31,7.0.109,2013-01-10,2021-04-22,false,,https://endoflife.date/
 tomcat,8.0,2018-06-30,8.0.53,2014-01-29,2018-06-29,false,,https://endoflife.date/tomcat,,,,,2018-06-30,false,,false,,,,
 tomcat,6,2016-12-31,6.0.53,2006-10-21,,false,,https://endoflife.date/tomcat,,,,,2016-12-31,false,,false,,,,
 tomcat,5,2012-09-30,5.5.36,2003-09-06,,false,,https://endoflife.date/tomcat,,,,,2012-09-30,false,,false,,,,
-traefik,3.2,false,3.2.2,2024-10-28,2024-12-10,false,,https://endoflife.date/traefik,,,,true,,false,,false,,,,
-traefik,2.11,2025-04-29,2.11.15,2024-02-12,2024-12-10,false,,https://endoflife.date/traefik,,,2025-04-29,,2025-04-29,false,,false,,,,
+traefik,3.2,false,3.2.3,2024-10-28,2024-12-16,false,,https://endoflife.date/traefik,,,,true,,false,,false,,,,
+traefik,2.11,2025-04-29,2.11.16,2024-02-12,2024-12-16,false,,https://endoflife.date/traefik,,,2025-04-29,,2025-04-29,false,,false,,,,
 traefik,3.1,2024-10-28,3.1.7,2024-07-15,2024-10-28,false,,https://endoflife.date/traefik,,,2024-10-28,,2024-10-28,false,,false,,,,
 traefik,3.0,2024-07-15,3.0.4,2024-04-29,2024-07-02,false,,https://endoflife.date/traefik,,,2024-07-15,,2024-07-15,false,,false,,,,
 traefik,2.10,2024-02-12,2.10.7,2023-04-24,2023-12-06,false,,https://endoflife.date/traefik,,,2024-02-12,,2024-02-12,false,,false,,,,

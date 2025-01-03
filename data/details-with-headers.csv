@@ -1152,6 +1152,15 @@ erlang,20,2020-06-21,20.3.8.26,2017-06-21,2020-02-27,false,,https://endoflife.da
 erlang,19,2019-06-21,19.3.6.13,2016-06-21,2019-01-08,false,,https://endoflife.date/erlang,,,2017-06-21,,2019-06-21,false,,false,,,,
 erlang,18,2018-11-09,18.3.4.11,2015-06-23,2018-11-09,false,,https://endoflife.date/erlang,,,2016-06-21,,2018-11-09,false,,false,,,,
 erlang,17,2018-10-11,17.5.6.10,2014-04-07,2018-10-11,false,,https://endoflife.date/erlang,,,2015-06-23,,2018-10-11,false,,false,,,,
+eslint,9,false,9.17.0,2024-04-05,2024-12-13,false,,https://endoflife.date/eslint,,true,,true,,false,,false,,,,true
+eslint,8,2024-10-05,8.57.1,2021-10-09,2024-09-16,false,,https://endoflife.date/eslint,,true,2024-04-05,,2024-10-05,false,,false,,,,true
+eslint,7,2022-04-09,7.32.0,2020-05-08,2021-07-30,false,,https://endoflife.date/eslint,,false,2021-10-09,,2022-04-09,false,,false,,,,false
+eslint,6,2020-11-08,6.8.0,2019-06-21,2019-12-20,false,,https://endoflife.date/eslint,,false,2020-05-08,,2020-11-08,false,,false,,,,false
+eslint,5,2019-12-21,5.16.0,2018-06-22,2019-03-30,false,,https://endoflife.date/eslint,,false,2019-06-21,,2019-12-21,false,,false,,,,false
+eslint,4,2018-12-22,4.19.1,2017-06-11,2018-03-22,false,,https://endoflife.date/eslint,,false,2018-06-22,,2018-12-22,false,,false,,,,false
+eslint,3,2017-12-11,3.19.0,2016-07-01,2017-03-31,false,,https://endoflife.date/eslint,,false,2017-06-11,,2017-12-11,false,,false,,,,false
+eslint,2,2017-01-01,2.13.1,2016-02-12,2016-06-20,false,,https://endoflife.date/eslint,,false,2016-07-01,,2017-01-01,false,,false,,,,false
+eslint,1,2016-08-12,1.10.3,2015-07-31,2015-12-01,false,,https://endoflife.date/eslint,,false,2016-02-12,,2016-08-12,false,,false,,,,false
 esxi,8.0,2027-10-11,8.0d,2022-10-11,2024-10-08,false,https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vsphere-esxi-80d-release-notes/index.html,https://endoflife.date/esxi,,,,,2027-10-11,false,,false,,,,
 esxi,7.0,2025-10-02,7.0 Update 3q,2020-04-02,2024-05-21,false,https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-esxi-70u3q-release-notes/index.html,https://endoflife.date/esxi,,,,,2025-10-02,false,,false,,,,
 esxi,6.7,2022-10-15,6.7 ESXi670-202403001,2018-04-17,2024-03-05,false,https://docs.vmware.com/en/VMware-vSphere/6.7/rn/esxi670-202403001.html,https://endoflife.date/esxi,,,,,2022-10-15,false,,false,,,,
@@ -2294,7 +2303,7 @@ lineageos,16.0,2021-02-16,,2019-03-01,,false,https://lineageos.org/Changelog-22/
 lineageos,15.1,true,,2018-02-25,,false,https://lineageos.org/Changelog-16/,https://endoflife.date/lineageos,,,,,,true,,false,,,,
 lineageos,14.1,true,,2017-01-22,,false,https://www.lineageoslog.com/14.1,https://endoflife.date/lineageos,,,,,,true,,false,,,,
 lineageos,13.0,true,,2017-01-22,,false,https://www.lineageoslog.com/13.0,https://endoflife.date/lineageos,,,,,,true,,false,,,,
-linux,6.12,2026-12-31,6.12.7,2024-11-17,2024-12-27,true,,https://endoflife.date/linux,,,,,2026-12-31,false,,true,,,,
+linux,6.12,2026-12-31,6.12.8,2024-11-17,2025-01-02,true,,https://endoflife.date/linux,,,,,2026-12-31,false,,true,,,,
 linux,6.6,2026-12-31,6.6.68,2023-10-30,2024-12-27,true,,https://endoflife.date/linux,,,,,2026-12-31,false,,true,,,,
 linux,6.1,2027-12-31,6.1.122,2022-12-11,2024-12-27,true,,https://endoflife.date/linux,,,,,2027-12-31,false,,true,,,,
 linux,5.15,2026-10-31,5.15.175,2021-10-31,2024-12-19,true,,https://endoflife.date/linux,,,,,2026-10-31,false,,true,,,,

@@ -599,8 +599,8 @@ bootstrap,4,2023-01-01,4.6.2,2018-01-18,2022-07-19,true,,https://endoflife.date/
 bootstrap,3,2019-07-24,3.4.1,2013-08-19,2019-02-13,false,,https://endoflife.date/bootstrap,,true,,,2019-07-24,false,,false,,,,true
 bootstrap,2,2013-08-19,2.3.2,2012-01-31,2013-07-26,false,,https://endoflife.date/bootstrap,,false,,,2013-08-19,false,,false,,,,false
 bun,1,false,1.1.42,2023-09-07,2024-12-20,false,,https://endoflife.date/bun,,,,,,false,,false,,,,
+cakephp,4.5,2026-09-09,4.5.9,2023-10-14,2025-01-04,false,,https://endoflife.date/cakephp,,,2025-09-09,,2026-09-09,false,,false,,,,
 cakephp,5.1,false,5.1.4,2024-09-13,2024-12-12,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
-cakephp,4.5,2026-09-09,4.5.8,2023-10-14,2024-11-24,false,,https://endoflife.date/cakephp,,,2025-09-09,,2026-09-09,false,,false,,,,
 cakephp,5.0,false,5.0.11,2023-09-09,2024-09-12,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
 cakephp,4.4,2026-09-09,4.4.18,2022-06-06,2023-09-22,false,,https://endoflife.date/cakephp,,,2023-10-15,,2026-09-09,false,,false,,,,
 cakephp,4.2,2023-10-14,4.2.12,2020-12-20,2023-01-06,false,,https://endoflife.date/cakephp,,,2021-10-24,,2023-10-14,false,,false,,,,
@@ -761,8 +761,8 @@ coder,2.10,2024-07-02,2.10.3,2024-04-03,2024-05-22,false,,https://endoflife.date
 coder,2.9,2024-06-04,2.9.4,2024-03-07,2024-04-22,false,,https://endoflife.date/coder,,,2024-05-07,,2024-06-04,false,,false,,,,
 coder,2.8,2024-05-07,2.8.5,2024-02-06,2024-03-09,false,,https://endoflife.date/coder,,,2024-04-03,,2024-05-07,false,,false,,,,
 coder,2.7,2024-04-03,2.7.3,2024-01-01,2024-03-04,false,,https://endoflife.date/coder,,,2024-03-07,,2024-04-03,false,,false,,,,
-coldfusion,2023,2028-05-16,2023.0.11.330706,2022-05-16,2024-10-15,false,,https://endoflife.date/coldfusion,,2029-05-16,,,2028-05-16,false,,false,,,2029-05-16,
-coldfusion,2021,2025-11-10,2021.0.17.330334,2020-11-11,2024-10-15,false,,https://endoflife.date/coldfusion,,2026-11-10,,,2025-11-10,false,,false,,,2026-11-10,
+coldfusion,2023,2028-05-16,2023.0.12.330713,2022-05-16,2024-12-23,false,,https://endoflife.date/coldfusion,,2029-05-16,,,2028-05-16,false,,false,,,2029-05-16,
+coldfusion,2021,2025-11-10,2021.0.18.330341,2020-11-11,2024-12-23,false,,https://endoflife.date/coldfusion,,2026-11-10,,,2025-11-10,false,,false,,,2026-11-10,
 coldfusion,2018,2023-07-13,2018.0.19.330149,2018-07-12,2023-07-19,false,,https://endoflife.date/coldfusion,,2024-07-13,,,2023-07-13,false,,false,,,2024-07-13,
 coldfusion,2016,2021-02-17,2016.0.17.325979,2016-02-16,2021-03-22,false,,https://endoflife.date/coldfusion,,2022-02-17,,,2021-02-17,false,,false,,,2022-02-17,
 coldfusion,11,2019-04-30,11.0.19.314546,2014-04-29,2019-06-11,false,,https://endoflife.date/coldfusion,,2021-04-30,,,2019-04-30,false,,false,,,2021-04-30,
@@ -1029,10 +1029,10 @@ drush,10,2022-01-31,10.6.2,2019-10-31,2021-12-15,false,,https://endoflife.date/d
 drush,9,2020-05-31,9.7.3,2018-01-24,2021-03-22,false,,https://endoflife.date/drush,,,,,2020-05-31,false,,false,,,,
 drush,6,2015-12-31,6.7.0,2013-08-16,2015-12-02,false,,https://endoflife.date/drush,,,,,2015-12-31,false,,false,,,,
 drush,5,2015-05-31,5.11.0,2012-03-23,2014-05-22,false,,https://endoflife.date/drush,,,,,2015-05-31,false,,false,,,,
+eclipse-jetty,9.4,2025-02-19,9.4.57.v20241219,2016-12-07,2024-12-19,false,,https://endoflife.date/eclipse-jetty,,true,2022-06-01,,2025-02-19,false,,false,,,,true
 eclipse-jetty,12,false,12.0.16,2023-08-07,2024-12-09,false,,https://endoflife.date/eclipse-jetty,,true,,true,,false,,false,,,,true
 eclipse-jetty,11,2025-01-01,11.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,true,2024-01-01,,2025-01-01,false,,false,,,,true
 eclipse-jetty,10,2025-01-01,10.0.24,2020-12-02,2024-08-26,false,,https://endoflife.date/eclipse-jetty,,true,2024-01-01,,2025-01-01,false,,false,,,,true
-eclipse-jetty,9.4,2025-01-01,9.4.53.v20231009,2016-12-07,2023-10-10,false,,https://endoflife.date/eclipse-jetty,,true,2022-06-01,,2025-01-01,false,,false,,,,true
 eclipse-jetty,9.3,2020-12-07,9.3.30.v20211001,2015-06-01,2021-10-01,false,,https://endoflife.date/eclipse-jetty,,false,2020-12-07,,2020-12-07,false,,false,,,,false
 eclipse-jetty,9.2,2018-03-08,9.2.30.v20200428,2014-05-23,2020-04-28,false,,https://endoflife.date/eclipse-jetty,,false,2018-03-08,,2018-03-08,false,,false,,,,false
 eclipse-jetty,8,2014-12-31,8.2.0.v20160908,2011-09-01,2016-09-08,false,,https://endoflife.date/eclipse-jetty,,false,2014-12-31,,2014-12-31,false,,false,,,,false
@@ -1629,7 +1629,7 @@ grafana-loki,1.3,2020-04-01,1.3.0,2020-01-22,2020-01-22,false,,https://endoflife
 grafana-loki,1.2,2020-01-22,1.2.0,2019-12-09,2019-12-09,false,,https://endoflife.date/grafana-loki,,,,,2020-01-22,false,,false,,,,
 grafana-loki,1.1,2019-12-09,1.1.0,2019-12-04,2019-12-04,false,,https://endoflife.date/grafana-loki,,,,,2019-12-09,false,,false,,,,
 grafana-loki,1.0,2019-12-04,1.0.2,2019-07-26,2019-07-26,false,,https://endoflife.date/grafana-loki,,,,,2019-12-04,false,,false,,,,
-grails,6,false,6.2.2,2023-07-24,2024-11-20,false,,https://endoflife.date/grails,,,,true,,false,,false,,,,
+grails,6,false,6.2.3,2023-07-24,2025-01-03,false,,https://endoflife.date/grails,,,,true,,false,,false,,,,
 grails,4,2023-03-31,4.1.4,2019-07-11,2024-03-08,false,,https://endoflife.date/grails,,,,,2023-03-31,false,,false,,,,
 grails,5,false,5.3.6,2021-10-12,2024-01-09,false,,https://endoflife.date/grails,,,2023-07-24,,,false,,false,,,,
 grails,3,2021-09-30,3.3.18,2015-03-31,2024-01-09,false,,https://endoflife.date/grails,,,,,2021-09-30,false,,false,,,,
@@ -2216,7 +2216,7 @@ kong-gateway,3.3,2023-08-09,3.3.1,2023-05-18,2023-07-11,false,,https://endoflife
 kong-gateway,3.2,2023-05-18,3.2.2,2023-02-20,2023-03-16,false,,https://endoflife.date/kong-gateway,,2024-02-21,,,2023-05-18,false,,false,,,2024-02-21,
 kong-gateway,3.1,2023-02-21,3.1.1,2022-12-06,2022-12-09,false,,https://endoflife.date/kong-gateway,,2023-12-06,,,2023-02-21,false,,false,,,2023-12-06,
 kong-gateway,3.0,2022-12-09,3.0.2,2022-09-12,2022-12-09,false,,https://endoflife.date/kong-gateway,,2023-09-12,,,2022-12-09,false,,false,,,2023-09-12,
-kotlin,2.1,false,2.1.0,2024-10-10,2024-10-10,false,,https://endoflife.date/kotlin,,,,,,false,,false,,,,
+kotlin,2.1,false,2.1.0,2024-11-27,2024-11-27,false,,https://endoflife.date/kotlin,,,,,,false,,false,,,,
 kotlin,2.0,2024-11-27,2.0.21,2024-05-21,2024-10-10,false,,https://endoflife.date/kotlin,,,,,2024-11-27,false,,false,,,,
 kotlin,1.9,2024-05-21,1.9.25,2023-07-06,2024-07-19,false,,https://endoflife.date/kotlin,,,,,2024-05-21,false,,false,,,,
 kotlin,1.8,2023-07-06,1.8.22,2022-12-28,2023-06-07,false,,https://endoflife.date/kotlin,,,,,2023-07-06,false,,false,,,,

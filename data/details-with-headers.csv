@@ -36,7 +36,7 @@ alpine,3.10,2021-05-01,3.10.9,2019-06-19,2021-04-14,false,https://alpinelinux.or
 alpine,3.9,2020-11-01,3.9.6,2019-01-29,2020-04-23,false,https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html,https://endoflife.date/alpine,,,,,2020-11-01,false,,false,,,,
 alpine,3.8,2020-05-01,3.8.5,2018-06-26,2020-01-23,false,https://git.alpinelinux.org/aports/log/?h=3.8-stable,https://endoflife.date/alpine,,,,,2020-05-01,false,,false,,,,
 alpine,3.7,2019-11-01,3.7.3,2017-11-30,2019-03-06,false,https://git.alpinelinux.org/aports/log/?h=3.7-stable,https://endoflife.date/alpine,,,,,2019-11-01,false,,false,,,,
-amazon-cdk,2,false,2.176.0,2021-12-01,2025-01-15,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
+amazon-cdk,2,false,2.177.0,2021-12-01,2025-01-24,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
 amazon-corretto,23,2025-04-30,23.0.2.7.1,2024-09-17,2025-01-21,false,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/,https://endoflife.date/amazon-corretto,,,,,2025-04-30,false,,false,,,,
 amazon-corretto,21,2030-10-31,21.0.6.7.1,2023-09-21,2025-01-21,true,,https://endoflife.date/amazon-corretto,,,,,2030-10-31,false,,true,,,,
 amazon-corretto,17,2029-10-31,17.0.14.7.1,2021-09-16,2025-01-21,true,,https://endoflife.date/amazon-corretto,,,,,2029-10-31,false,,true,,,,
@@ -290,8 +290,8 @@ apache-flink,1.20,false,1.20.0,2024-08-01,2024-08-01,false,,https://endoflife.da
 apache-flink,1.19,false,1.19.1,2024-03-15,2024-06-14,false,,https://endoflife.date/apache-flink,,,,,,false,,false,,,,
 apache-flink,1.18,false,1.18.1,2023-10-24,2024-01-16,false,,https://endoflife.date/apache-flink,,,,,,false,,false,,,,
 apache-flink,1.17,false,1.17.2,2023-03-23,2023-11-27,false,,https://endoflife.date/apache-flink,,,,,,false,,false,,,,
+apache-groovy,4.0,false,4.0.25,2022-01-25,2025-01-21,false,,https://endoflife.date/apache-groovy,,,,true,,false,,false,,,,
 apache-groovy,3.0,false,3.0.23,2020-02-10,2024-11-08,false,,https://endoflife.date/apache-groovy,,,,,,false,,false,,,,
-apache-groovy,4.0,false,4.0.24,2022-01-25,2024-11-05,false,,https://endoflife.date/apache-groovy,,,,true,,false,,false,,,,
 apache-groovy,2.5,false,2.5.23,2018-05-30,2023-08-22,false,,https://endoflife.date/apache-groovy,,,,,,false,,false,,,,
 apache-groovy,2.4,true,2.4.21,2015-01-21,2020-12-03,false,,https://endoflife.date/apache-groovy,,,,,,true,,false,,,,
 apache-hadoop,3.4,false,3.4.1,2024-03-17,2024-10-18,false,,https://endoflife.date/apache-hadoop,,,,,,false,,false,,,,
@@ -1176,7 +1176,7 @@ erlang,20,2020-06-21,20.3.8.26,2017-06-21,2020-02-27,false,,https://endoflife.da
 erlang,19,2019-06-21,19.3.6.13,2016-06-21,2019-01-08,false,,https://endoflife.date/erlang,,,2017-06-21,,2019-06-21,false,,false,,,,
 erlang,18,2018-11-09,18.3.4.11,2015-06-23,2018-11-09,false,,https://endoflife.date/erlang,,,2016-06-21,,2018-11-09,false,,false,,,,
 erlang,17,2018-10-11,17.5.6.10,2014-04-07,2018-10-11,false,,https://endoflife.date/erlang,,,2015-06-23,,2018-10-11,false,,false,,,,
-eslint,9,false,9.18.0,2024-04-05,2025-01-10,false,,https://endoflife.date/eslint,,true,,true,,false,,false,,,,true
+eslint,9,false,9.19.0,2024-04-05,2025-01-24,false,,https://endoflife.date/eslint,,true,,true,,false,,false,,,,true
 eslint,8,2024-10-05,8.57.1,2021-10-09,2024-09-16,false,,https://endoflife.date/eslint,,true,2024-04-05,,2024-10-05,false,,false,,,,true
 eslint,7,2022-04-09,7.32.0,2020-05-08,2021-07-30,false,,https://endoflife.date/eslint,,false,2021-10-09,,2022-04-09,false,,false,,,,false
 eslint,6,2020-11-08,6.8.0,2019-06-21,2019-12-20,false,,https://endoflife.date/eslint,,false,2020-05-08,,2020-11-08,false,,false,,,,false
@@ -1191,7 +1191,7 @@ esxi,6.7,2022-10-15,6.7 ESXi670-202403001,2018-04-17,2024-03-05,false,https://te
 esxi,6.5,2022-10-15,6.5 ESXi650-202403001,2016-11-15,2024-03-05,false,https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/6-5/release-notes.html,https://endoflife.date/esxi,,,,,2022-10-15,false,,false,,,,
 esxi,6.0,2020-03-12,6.0 EP 25,2015-03-12,2020-02-20,false,https://web.archive.org/web/20220710112255/https://docs.vmware.com/en/VMware-vSphere/6.0/rn/esxi600-202002001.html,https://endoflife.date/esxi,,,,,2020-03-12,false,,false,,,,
 esxi,5.5,2018-09-19,5.5 Update 3k,2013-09-19,2018-09-14,false,https://docs.vmware.com/en/VMware-vSphere/5.5/rn/vsphere-esxi-55u3k-release-notes.html,https://endoflife.date/esxi,,,,,2018-09-19,false,,false,,,,
-etcd,3.5,false,3.5.17,2021-06-15,2024-11-12,false,,https://endoflife.date/etcd,,,,,,false,,false,,,,
+etcd,3.5,false,3.5.18,2021-06-15,2025-01-25,false,,https://endoflife.date/etcd,,,,,,false,,false,,,,
 etcd,3.4,false,3.4.35,2019-08-30,2024-11-12,false,,https://endoflife.date/etcd,,,,,,false,,false,,,,
 etcd,3.3,2021-10-15,3.3.27,2018-02-01,2021-10-15,false,,https://endoflife.date/etcd,,,,,2021-10-15,false,,false,,,,
 etcd,3.2,2021-03-28,3.2.32,2017-06-09,2021-03-28,false,,https://endoflife.date/etcd,,,,,2021-03-28,false,,false,,,,
@@ -1352,7 +1352,7 @@ firefox,104,2022-09-20,104.0.2,2022-08-23,2022-09-06,false,,https://endoflife.da
 firefox,91,2022-09-20,91.13.0,2021-08-10,2022-08-23,true,,https://endoflife.date/firefox,,,,,2022-09-20,false,,true,,,,
 firefox,103,2022-08-23,103.0.2,2022-07-26,2022-08-09,false,,https://endoflife.date/firefox,,,,,2022-08-23,false,,false,,,,
 firefox,78,2021-11-02,78.15.0,2020-06-30,2021-10-05,true,,https://endoflife.date/firefox,,,,,2021-11-02,false,,true,,,,
-fluent-bit,3.2,false,3.2.5,2024-11-12,2025-01-22,false,,https://endoflife.date/fluent-bit,,,,,,false,,false,,,,
+fluent-bit,3.2,false,3.2.5,2024-11-12,2025-01-24,false,,https://endoflife.date/fluent-bit,,,,,,false,,false,,,,
 fluent-bit,3.1,2025-02-12,3.1.10,2024-07-08,2024-11-04,false,,https://endoflife.date/fluent-bit,,,,,2025-02-12,false,,false,,,,
 fluent-bit,3.0,2024-10-08,3.0.7,2024-03-21,2024-06-11,false,,https://endoflife.date/fluent-bit,,,,,2024-10-08,false,,false,,,,
 fluent-bit,2.2,2024-06-21,2.2.3,2023-11-06,2024-05-21,false,,https://endoflife.date/fluent-bit,,,,,2024-06-21,false,,false,,,,
@@ -1597,7 +1597,7 @@ graalvm,21.1,2021-07-20,21.1.0,2021-04-20,2021-04-20,false,,https://endoflife.da
 graalvm,19.3,2021-04-20,19.3.6,2019-11-19,2021-04-20,true,,https://endoflife.date/graalvm,,false,,,2021-04-20,false,,true,,,,false
 graalvm,20.2,2020-11-17,20.2.1,2020-08-18,2020-10-20,false,,https://endoflife.date/graalvm,,false,,,2020-11-17,false,,false,,,,false
 graalvm,20.1,2020-08-18,20.1.1,2020-05-19,2020-07-14,false,,https://endoflife.date/graalvm,,false,,,2020-08-18,false,,false,,,,false
-gradle,8,false,8.12.0,2023-02-10,2024-12-20,false,,https://endoflife.date/gradle,,,,true,,false,,false,,,,
+gradle,8,false,8.12.1,2023-02-10,2025-01-23,false,,https://endoflife.date/gradle,,,,true,,false,,false,,,,
 gradle,7,false,7.6.4,2021-04-09,2024-02-05,false,,https://endoflife.date/gradle,,,,,,false,,false,,,,
 gradle,6,2023-02-10,6.9.4,2019-11-08,2023-02-21,false,,https://endoflife.date/gradle,,,2021-04-09,,2023-02-10,false,,false,,,,
 gradle,5,2019-11-08,5.6.4,2018-11-23,2019-10-31,false,,https://endoflife.date/gradle,,,2019-11-08,,2019-11-08,false,,false,,,,
@@ -2305,8 +2305,8 @@ kyverno,1.11,false,1.11.5,2023-11-10,2024-05-09,false,,https://endoflife.date/ky
 kyverno,1.10,2024-10-29,1.10.7,2023-05-30,2023-12-20,false,,https://endoflife.date/kyverno,,,,,2024-10-29,false,,false,,,,
 kyverno,1.9,2024-04-26,1.9.5,2023-02-01,2023-05-29,false,,https://endoflife.date/kyverno,,,,,2024-04-26,false,,false,,,,
 kyverno,1.8,2023-11-10,1.8.5,2022-10-10,2022-12-20,false,,https://endoflife.date/kyverno,,,,,2023-11-10,false,,false,,,,
-laravel,11,2026-03-12,11.39.1,2024-03-12,2025-01-22,false,,https://endoflife.date/laravel,,,2025-09-03,,2026-03-12,false,,false,,,,
-laravel,10,2025-02-04,10.48.26,2023-02-14,2025-01-21,false,,https://endoflife.date/laravel,,,2024-08-06,,2025-02-04,false,,false,,,,
+laravel,11,2026-03-12,11.40.0,2024-03-12,2025-01-24,false,,https://endoflife.date/laravel,,,2025-09-03,,2026-03-12,false,,false,,,,
+laravel,10,2025-02-04,10.48.27,2023-02-14,2025-01-24,false,,https://endoflife.date/laravel,,,2024-08-06,,2025-02-04,false,,false,,,,
 laravel,9,2024-02-06,9.52.19,2022-02-08,2025-01-21,false,,https://endoflife.date/laravel,,,2023-08-08,,2024-02-06,false,,false,,,,
 laravel,8,2023-01-24,8.83.29,2020-09-08,2024-11-20,false,,https://endoflife.date/laravel,,,2022-07-26,,2023-01-24,false,,false,,,,
 laravel,7,2021-03-03,7.30.7,2020-03-03,2024-11-12,false,,https://endoflife.date/laravel,,,2020-10-06,,2021-03-03,false,,false,,,,
@@ -2532,7 +2532,7 @@ mastodon,3.1,true,3.1.5,2020-02-09,2020-07-07,false,,https://endoflife.date/mast
 mastodon,3.0,true,3.0.2,2019-10-03,2020-02-27,false,,https://endoflife.date/mastodon,,,,,,true,,false,,,,
 mastodon,2,true,2.9.4,2017-10-18,2020-02-27,false,,https://endoflife.date/mastodon,,,,,,true,,false,,,,
 mastodon,1,true,1.6.1,2017-02-05,2017-09-17,false,,https://endoflife.date/mastodon,,,,,,true,,false,,,,
-matomo,5,false,5.2.1,2023-12-18,2024-12-20,false,,https://endoflife.date/matomo,,,,true,,false,,false,,,,
+matomo,5,false,5.2.2,2023-12-18,2025-01-24,false,,https://endoflife.date/matomo,,,,true,,false,,false,,,,
 matomo,4,2024-12-19,4.16.1,2020-11-24,2024-02-05,false,,https://endoflife.date/matomo,,,2023-12-18,,2024-12-19,false,,false,,,,
 matomo,3,2021-12-01,3.14.1,2016-12-19,2020-09-11,false,,https://endoflife.date/matomo,,,2020-11-24,,2021-12-01,false,,false,,,,
 matomo,2,2017-12-18,2.18.1,2013-12-17,2020-07-01,false,,https://endoflife.date/matomo,,,2016-12-19,,2017-12-18,false,,false,,,,
@@ -2938,7 +2938,7 @@ nginx,1.6,2015-04-21,1.6.3,2014-04-24,2015-04-07,false,,https://endoflife.date/n
 nginx,1.4,2014-04-24,1.4.7,2013-04-24,2014-03-18,false,,https://endoflife.date/nginx,,,,,2014-04-24,false,,false,,,,
 nginx,1.2,2013-04-24,1.2.9,2012-04-23,2013-05-13,false,,https://endoflife.date/nginx,,,,,2013-04-24,false,,false,,,,
 nginx,1.0,2012-04-23,1.0.15,2011-04-12,2012-04-12,false,,https://endoflife.date/nginx,,,,,2012-04-23,false,,false,,,,
-nix,2.26,false,2.26.0,2025-01-22,2025-01-22,false,,https://endoflife.date/nix,,,,,,false,,false,,,,
+nix,2.26,false,2.26.1,2025-01-22,2025-01-24,false,,https://endoflife.date/nix,,,,,,false,,false,,,,
 nix,2.25,2025-01-22,2.25.5,2024-11-11,2025-01-22,false,,https://endoflife.date/nix,,,,,2025-01-22,false,,false,,,,
 nix,2.24,2025-01-22,2.24.12,2024-08-01,2025-01-22,false,,https://endoflife.date/nix,,,,,2025-01-22,false,,false,,,,
 nix,2.23,2024-10-31,2.23.4,2024-06-12,2024-10-31,false,,https://endoflife.date/nix,,,,,2024-10-31,false,,false,,,,
@@ -3159,7 +3159,7 @@ nutanix-prism,5.17,2020-11-30,5.17.1.1,2020-05-31,2020-05-31,false,,https://endo
 nutanix-prism,5.16,2020-08-31,5.16.2,2020-01-31,2020-01-31,false,,https://endoflife.date/nutanix-prism,,,2020-05-31,,2020-08-31,false,,false,,,,
 nutanix-prism,5.11,2020-04-30,5.11.3,2019-08-31,2019-08-31,false,,https://endoflife.date/nutanix-prism,,,2020-01-31,,2020-04-30,false,,false,,,,
 nutanix-prism,5.10,2019-11-30,5.10.6,2018-11-30,2018-11-30,false,,https://endoflife.date/nutanix-prism,,,2019-08-31,,2019-11-30,false,,false,,,,
-nuxt,3,false,3.15.2,2022-11-16,2025-01-15,false,,https://endoflife.date/nuxt,,false,,true,,false,,false,,,,false
+nuxt,3,false,3.15.3,2022-11-16,2025-01-24,false,,https://endoflife.date/nuxt,,false,,true,,false,,false,,,,false
 nuxt,2,2024-06-30,2.18.1,2018-09-21,2024-06-28,false,,https://endoflife.date/nuxt,,true,2022-11-16,,2024-06-30,false,,false,,,,true
 nvidia,R550-Linux (PB),2025-02-01,550.144.03,2024-02-23,2025-01-16,false,https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-144-03/,https://endoflife.date/nvidia,,,2025-02-01,,2025-02-01,false,,false,,,,
 nvidia,R550-Windows (PB),2025-02-01,553.62,2024-02-22,2025-01-16,false,https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-550-144-03/,https://endoflife.date/nvidia,,,2025-02-01,,2025-02-01,false,,false,,,,
@@ -4812,7 +4812,7 @@ suse-manager,3.1,2019-06-30,3.1.11,2017-06-27,2019-06-30,false,,https://endoflif
 suse-manager,3.0,2018-10-31,3.0.12,2016-04-05,2018-06-01,false,,https://endoflife.date/suse-manager,,,,,2018-10-31,false,,false,,,,
 suse-manager,2.1,2017-01-31,2.1.19,2014-06-02,2016-10-31,false,,https://endoflife.date/suse-manager,,,,,2017-01-31,false,,false,,,,
 suse-manager,1.7,2015-06-30,1.7.6,2012-08-09,2013-08-26,false,,https://endoflife.date/suse-manager,,,,,2015-06-30,false,,false,,,,
-svelte,5,false,5.19.2,2024-10-19,2025-01-22,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
+svelte,5,false,5.19.3,2024-10-19,2025-01-25,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
 svelte,4,2024-10-19,4.2.19,2023-06-22,2024-08-23,false,,https://endoflife.date/svelte,,false,2024-10-19,,2024-10-19,false,,false,,,,false
 svelte,3,2023-06-22,3.59.2,2019-04-21,2023-06-20,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2023-06-22,,2023-06-22,false,,false,,,,false
 svelte,2,2019-04-21,2.16.1,2018-04-19,2019-02-08,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2019-04-21,,2019-04-21,false,,false,,,,false
@@ -5369,8 +5369,8 @@ yarn,4,false,4.6.0,2023-10-22,2024-12-29,false,,https://endoflife.date/yarn,,,,,
 yarn,3,false,3.8.7,2021-07-26,2024-12-04,false,,https://endoflife.date/yarn,,,,,,false,,false,,,,
 yarn,1,false,1.22.22,2017-09-05,2024-03-09,false,https://github.com/yarnpkg/yarn/releases/tag/v__LATEST__,https://endoflife.date/yarn,,,,,,false,,false,,,,
 yarn,2,2021-09-06,2.4.3,2020-07-09,2021-09-06,false,,https://endoflife.date/yarn,,,,,2021-09-06,false,,false,,,,
+yocto,5.1,false,5.1.2,2024-10-16,2025-01-24,false,,https://endoflife.date/yocto,,,,,,false,,false,,,,
 yocto,5.0,2028-04-30,5.0.6,2024-04-29,2025-01-14,true,,https://endoflife.date/yocto,,,,,2028-04-30,false,,true,,,,
-yocto,5.1,false,5.1.1,2024-10-16,2024-12-11,false,,https://endoflife.date/yocto,,,,,,false,,false,,,,
 yocto,4.0,2026-04-27,4.0.23,2022-04-25,2024-11-27,true,,https://endoflife.date/yocto,,,,,2026-04-27,false,,true,,,,
 yocto,3.1,2024-04-30,3.1.33,2020-04-21,2024-05-03,true,,https://endoflife.date/yocto,,,,,2024-04-30,false,,true,,,,
 yocto,4.3,2024-06-09,4.3.4,2023-11-09,2024-04-09,false,,https://endoflife.date/yocto,,,,,2024-06-09,false,,false,,,,

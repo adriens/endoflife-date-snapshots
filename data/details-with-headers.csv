@@ -1260,6 +1260,11 @@ exim,4.53,2005-10-04,4.53,2005-09-26,2005-09-26,false,https://github.com/Exim/ex
 exim,4.52,2005-09-26,4.52,2005-07-01,2005-07-01,false,https://github.com/Exim/exim/releases/tag/exim-4_52,https://endoflife.date/exim,,,,,2005-09-26,false,,false,,,,
 exim,4.51,2005-07-01,4.51,2005-05-04,2005-05-04,false,https://github.com/Exim/exim/releases/tag/exim-4_51,https://endoflife.date/exim,,,,,2005-07-01,false,,false,,,,
 exim,4.50,2005-05-04,4.50,2005-02-17,2005-02-17,false,https://github.com/Exim/exim/releases/tag/exim-4_50,https://endoflife.date/exim,,,,,2005-05-04,false,,false,,,,
+express,5,false,5.0.1,2024-09-09,2024-10-08,false,,https://endoflife.date/express,,false,,,,false,,false,,,,false
+express,4,false,4.21.1,2014-04-09,2024-10-08,false,,https://endoflife.date/express,,false,,,,false,,false,,,,false
+express,3,2015-07-05,3.21.1,2012-10-23,2015-07-15,false,,https://endoflife.date/express,,true,,,2015-07-05,false,,false,,,,true
+express,2,2012-07-01,2.5.11,2011-03-17,2012-07-04,false,,https://endoflife.date/express,,false,,,2012-07-01,false,,false,,,,false
+express,1,2011-03-01,1.0.8,2010-12-29,2011-03-01,false,,https://endoflife.date/express,,false,,,2011-03-01,false,,false,,,,false
 fairphone,5,2031-09-14,,2023-09-14,,false,https://support.fairphone.com/hc/articles/18020671537041-Fairphone-5-FAQ,https://endoflife.date/fairphone,false,,,true,2031-09-14,false,,false,,false,,
 fairphone,4,2026-09-30,,2021-09-30,,false,https://support.fairphone.com/hc/articles/4405858220945,https://endoflife.date/fairphone,false,,,,2026-09-30,false,,false,,false,,
 fairphone,3+,2025-09-30,,2020-09-30,,false,https://support.fairphone.com/hc/articles/360048139032,https://endoflife.date/fairphone,2022-11-01,,,,2025-09-30,false,,false,2022-11-01,,,
@@ -3524,10 +3529,10 @@ pangp,3.1,2018-06-23,3.1,2016-06-23,2016-06-23,false,,https://endoflife.date/pan
 pangp,3.0,2018-02-15,3.0,2016-02-16,2016-02-16,false,,https://endoflife.date/pangp,,,2017-05-18,,2018-02-15,false,,false,,,,
 pangp,5.0,2021-02-12,5.0.10,2019-02-12,,false,https://web.archive.org/web/20220815074700/https://docs.paloaltonetworks.com/globalprotect/5-0/globalprotect-app-release-notes/gp-app-release-information/globalprotect-50-addressed-issues,https://endoflife.date/pangp,,,2020-05-12,,2021-02-12,false,,false,,,,
 pangp,4.1,2020-03-01,4.1.13,2018-03-01,,false,https://web.archive.org/web/20220813143321/https://docs.paloaltonetworks.com/globalprotect/4-1/globalprotect-app-release-notes/gp-app-release-information/globalprotect-app-4113-addressed-issues,https://endoflife.date/pangp,,,2019-06-01,,2020-03-01,false,,false,,,,
+panos,11.2,2027-05-02,11.2.5,2024-05-02,2025-02-20,false,https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-5-known-and-addressed-issues/pan-os-11-2-5-addressed-issues,https://endoflife.date/panos,,,,,2027-05-02,false,,false,,,,
+panos,11.1,2027-05-03,11.1.6-h3,2023-11-03,2025-02-20,false,https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-h3-addressed-issues,https://endoflife.date/panos,,,,,2027-05-03,false,,false,,,,
 panos,10.2,2026-02-28,10.2.13-h4,2022-02-27,2025-02-14,false,https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/pan-os-10-2-13-known-and-addressed-issues/pan-os-10-2-13-h4-addressed-issues,https://endoflife.date/panos,,,,,2026-02-28,false,,false,,,,
 panos,10.1,2025-08-31,10.1.14-h9,2021-05-31,2025-02-10,false,https://docs.paloaltonetworks.com/pan-os/10-1/pan-os-release-notes/pan-os-10-1-14-known-and-addressed-issues/pan-os-10-1-14-h9-addressed-issues,https://endoflife.date/panos,,,,,2025-08-31,false,,false,,,,
-panos,11.2,2027-05-02,11.2.4-h4,2024-05-02,2025-02-04,false,https://docs.paloaltonetworks.com/pan-os/11-2/pan-os-release-notes/pan-os-11-2-4-known-and-addressed-issues/pan-os-11-2-4-h4-addressed-issues,https://endoflife.date/panos,,,,,2027-05-02,false,,false,,,,
-panos,11.1,2027-05-03,11.1.6-h1,2023-11-03,2025-01-31,false,https://docs.paloaltonetworks.com/pan-os/11-1/pan-os-release-notes/pan-os-11-1-6-known-and-addressed-issues/pan-os-11-1-6-h1-addressed-issues,https://endoflife.date/panos,,,,,2027-05-03,false,,false,,,,
 panos,11.0,2024-11-17,11.0.6-h1,2022-11-17,2024-11-17,false,https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-release-notes/pan-os-11-0-6-known-and-addressed-issues/pan-os-11-0-6-h1-addressed-issues,https://endoflife.date/panos,,,,,2024-11-17,false,,false,,,,
 panos,10.0,2022-07-16,10.0.12-h6,2020-07-16,2024-05-29,false,https://docs.paloaltonetworks.com/pan-os/10-0/pan-os-release-notes/pan-os-10-0-addressed-issues/pan-os-10-0-12-h6-addressed-issues,https://endoflife.date/panos,,,,,2022-07-16,false,,false,,,,
 panos,9.1,2024-06-30,9.1.19,2019-12-13,2024-05-22,false,https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-release-notes/pan-os-9-1-addressed-issues/pan-os-9-1-19-addressed-issues,https://endoflife.date/panos,,,,,2024-06-30,false,,false,,,,
@@ -4134,7 +4139,7 @@ roundcube,1.0,true,1.0.12,2014-04-05,2017-11-08,false,,https://endoflife.date/ro
 rtpengine,13.2,2025-04-18,13.2.1.2,2025-02-12,2025-02-14,false,https://www.sipwise.com/releases/2025/mr13.2,https://endoflife.date/rtpengine,,,,,2025-04-18,false,,false,,,,
 rtpengine,12.5,2027-07-23,12.5.1.23,2024-08-14,2025-02-06,true,https://www.sipwise.com/releases/2024/mr12.5,https://endoflife.date/rtpengine,,,,,2027-07-23,false,,true,,,,
 rtpengine,13.1,2025-02-14,13.1.1.6,2024-12-06,2025-01-20,false,https://www.sipwise.com/releases/2024/mr13.1,https://endoflife.date/rtpengine,,,,,2025-02-14,false,,false,,,,
-rtpengine,13.0,2024-12-06,13.0.1.10,2024-10-01,2025-01-20,false,https://www.sipwise.com/releases/2024/mr13.0,https://endoflife.date/rtpengine,,,,,2024-12-06,false,,false,,,,
+rtpengine,13.0,2025-01-20,13.0.1.10,2024-10-01,2025-01-20,false,https://www.sipwise.com/releases/2024/mr13.0,https://endoflife.date/rtpengine,,,,,2025-01-20,false,,false,,,,
 rtpengine,11.5,2026-09-11,11.5.1.38,2023-09-18,2025-01-20,true,https://www.sipwise.com/releases/2024/mr11.5,https://endoflife.date/rtpengine,,,,,2026-09-11,false,,true,,,,
 rtpengine,10.5,2025-09-05,10.5.8.3,2022-06-29,2025-01-16,true,https://www.sipwise.com/releases/2024/mr10.5,https://endoflife.date/rtpengine,,,,,2025-09-05,false,,true,,,,
 ruby,3.4,2028-03-31,3.4.2,2024-12-24,2025-02-14,false,https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/,https://endoflife.date/ruby,,,,,2028-03-31,false,,false,,,,
@@ -5186,6 +5191,14 @@ visual-studio,14.0,2025-10-14,Update 3 + KB3165756,2015-07-20,2016-09-14,false,h
 visual-studio,12.0,2024-04-09,Update 5,2014-01-15,2015-07-20,false,https://learn.microsoft.com/visualstudio/releasenotes/vs2013-update5-vs,https://endoflife.date/visual-studio,,,,,2024-04-09,false,,false,,,,
 visual-studio,11.0,2023-01-10,Update 4,2012-10-31,2013-11-13,false,https://learn.microsoft.com/visualstudio/releasenotes/vs2012-update4-vs,https://endoflife.date/visual-studio,,,,,2023-01-10,false,,false,,,,
 visual-studio,10.0,2020-07-14,Service Pack 1,2010-06-29,2011-08-18,false,https://learn.microsoft.com/visualstudio/releasenotes/vs2010-sp1-vs,https://endoflife.date/visual-studio,,,,,2020-07-14,false,,false,,,,
+vitess,19.0,2025-03-06,19.0.6,2024-03-06,2025-09-11,false,,https://endoflife.date/vitess,,,,,2025-03-06,false,,false,,,,
+vitess,20.0,2025-06-27,20.0.2,2024-06-27,2024-09-11,false,,https://endoflife.date/vitess,,,,,2025-06-27,false,,false,,,,
+vitess,18.0,2024-11-07,18.0.7,2023-11-07,2024-09-11,false,,https://endoflife.date/vitess,,,,,2024-11-07,false,,false,,,,
+vitess,17.0,2024-06-27,17.0.7,2023-06-27,2024-05-08,false,,https://endoflife.date/vitess,,,,,2024-06-27,false,,false,,,,
+vitess,16.0,2024-02-28,16.0.7,2023-02-28,2023-12-20,false,,https://endoflife.date/vitess,,,,,2024-02-28,false,,false,,,,
+vitess,15.0,2023-10-25,15.0.5,2022-10-25,2023-10-03,false,,https://endoflife.date/vitess,,,,,2023-10-25,false,,false,,,,
+vitess,14.0,2023-06-28,14.0.5,2022-06-28,2023-03-30,false,,https://endoflife.date/vitess,,,,,2023-06-28,false,,false,,,,
+vitess,13.0,2023-02-22,13.0.3,2022-02-22,2022-09-01,false,,https://endoflife.date/vitess,,,,,2023-02-22,false,,false,,,,
 vmware-cloud-foundation,5.1,2027-06-01,5.1.1,2023-11-07,2024-03-26,false,,https://endoflife.date/vmware-cloud-foundation,,,,,2027-06-01,false,,false,,,,
 vmware-cloud-foundation,5.0,2027-06-01,5.0.0.1,2023-06-01,2023-09-29,false,https://docs.vmware.com/en/VMware-Cloud-Foundation/5.0/rn/vmware-cloud-foundation-50-release-notes/index.html,https://endoflife.date/vmware-cloud-foundation,,,,,2027-06-01,false,,false,,,,
 vmware-cloud-foundation,4.5,2025-05-31,4.5.2,2022-10-11,2023-08-17,false,,https://endoflife.date/vmware-cloud-foundation,,,,,2025-05-31,false,,false,,,,

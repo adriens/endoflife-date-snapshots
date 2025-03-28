@@ -46,7 +46,7 @@ alpine,3.10,2021-05-01,3.10.9,2019-06-19,2021-04-14,false,https://alpinelinux.or
 alpine,3.9,2020-11-01,3.9.6,2019-01-29,2020-04-23,false,https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html,https://endoflife.date/alpine,,,,,2020-11-01,false,,false,,,,
 alpine,3.8,2020-05-01,3.8.5,2018-06-26,2020-01-23,false,https://git.alpinelinux.org/aports/log/?h=3.8-stable,https://endoflife.date/alpine,,,,,2020-05-01,false,,false,,,,
 alpine,3.7,2019-11-01,3.7.3,2017-11-30,2019-03-06,false,https://git.alpinelinux.org/aports/log/?h=3.7-stable,https://endoflife.date/alpine,,,,,2019-11-01,false,,false,,,,
-amazon-cdk,2,false,2.185.0,2021-12-01,2025-03-19,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
+amazon-cdk,2,false,2.186.0,2021-12-01,2025-03-26,false,,https://endoflife.date/amazon-cdk,,,,true,,false,,false,,,,
 amazon-corretto,24,2025-10-31,24.0.0.36.3,2025-03-18,2025-03-20,false,,https://endoflife.date/amazon-corretto,,,,,2025-10-31,false,,false,,,,
 amazon-corretto,23,2025-04-30,23.0.2.7.1,2024-09-17,2025-01-21,false,,https://endoflife.date/amazon-corretto,,,,,2025-04-30,false,,false,,,,
 amazon-corretto,21,2030-10-31,21.0.6.7.1,2023-09-21,2025-01-21,true,,https://endoflife.date/amazon-corretto,,,,,2030-10-31,false,,true,,,,
@@ -164,7 +164,7 @@ android,1.6,true,,2009-09-15,,false,,https://endoflife.date/android,,,,,,true,,f
 android,1.5,true,,2009-04-27,,false,,https://endoflife.date/android,,,,,,true,,false,,,,
 android,1.1,true,,2009-02-09,,false,,https://endoflife.date/android,,,,,,true,,false,,,,
 android,1.0,true,,2008-09-23,,false,,https://endoflife.date/android,,,,,,true,,false,,,,
-angular,19,2026-05-19,19.2.3,2024-11-19,2025-03-19,false,,https://endoflife.date/angular,,true,2025-05-19,,2026-05-19,false,,false,,,,true
+angular,19,2026-05-19,19.2.4,2024-11-19,2025-03-26,false,,https://endoflife.date/angular,,true,2025-05-19,,2026-05-19,false,,false,,,,true
 angular,18,2025-11-19,18.2.13,2024-05-22,2024-11-26,false,,https://endoflife.date/angular,,true,2024-11-19,,2025-11-19,false,,false,,,,true
 angular,17,2025-05-15,17.3.12,2023-11-08,2024-07-17,false,,https://endoflife.date/angular,,true,2024-05-08,,2025-05-15,false,,false,,,,true
 angular,16,2024-11-08,16.2.12,2023-05-03,2023-11-02,false,,https://endoflife.date/angular,,true,2023-11-08,,2024-11-08,false,,false,,,,true
@@ -1172,9 +1172,9 @@ eclipse-temurin,16,2021-09-30,16.0.2+7,2021-07-30,2021-07-30,false,,https://endo
 elasticsearch,8,false,8.17.4,2022-02-10,2025-03-21,false,,https://endoflife.date/elasticsearch,,,,,,false,,false,,,,
 elasticsearch,7,false,7.17.28,2019-04-10,2025-02-18,false,,https://endoflife.date/elasticsearch,,,,,,false,,false,,,,
 elasticsearch,6,2022-02-10,6.8.23,2017-11-14,2022-01-13,false,,https://endoflife.date/elasticsearch,,,,,2022-02-10,false,,false,,,,
-electron,35,2025-09-02,35.1.0,2025-03-04,2025-03-26,false,,https://endoflife.date/electron,,,,,2025-09-02,false,,false,,,,
-electron,34,2025-06-24,34.3.4,2025-01-14,2025-03-20,false,,https://endoflife.date/electron,,,,,2025-06-24,false,,false,,,,
-electron,33,2025-04-29,33.4.6,2024-10-15,2025-03-20,false,,https://endoflife.date/electron,,,,,2025-04-29,false,,false,,,,
+electron,35,2025-09-02,35.1.1,2025-03-04,2025-03-26,false,,https://endoflife.date/electron,,,,,2025-09-02,false,,false,,,,
+electron,34,2025-06-24,34.4.0,2025-01-14,2025-03-26,false,,https://endoflife.date/electron,,,,,2025-06-24,false,,false,,,,
+electron,33,2025-04-29,33.4.7,2024-10-15,2025-03-26,false,,https://endoflife.date/electron,,,,,2025-04-29,false,,false,,,,
 electron,32,2025-03-04,32.3.3,2024-08-20,2025-03-03,false,,https://endoflife.date/electron,,,,,2025-03-04,false,,false,,,,
 electron,31,2025-01-14,31.7.7,2024-06-11,2025-01-14,false,,https://endoflife.date/electron,,,,,2025-01-14,false,,false,,,,
 electron,30,2024-10-15,30.5.1,2024-04-16,2024-09-13,false,,https://endoflife.date/electron,,,,,2024-10-15,false,,false,,,,
@@ -1314,7 +1314,7 @@ eurolinux,8,2024-11-03,8.10,2021-07-12,2024-05-27,false,,https://endoflife.date/
 eurolinux,9,2024-11-03,9.4,2022-06-14,2024-05-10,false,,https://endoflife.date/eurolinux,,,2024-10-23,,2024-11-03,false,,false,,,,
 eurolinux,7,2024-07-31,7.9,2020-11-25,2020-11-25,false,,https://endoflife.date/eurolinux,,,2024-07-31,,2024-07-31,false,,false,,,,
 eurolinux,6,2020-12-31,6.10,2015-02-16,2018-07-25,false,,https://endoflife.date/eurolinux,,,2020-12-31,,2020-12-31,false,,false,,,,
-exim,4.98,false,4.98.1,2024-07-10,2025-02-18,false,,https://endoflife.date/exim,,,,,,false,,false,,,,
+exim,4.98,false,4.98.2,2024-07-10,2025-03-21,false,,https://endoflife.date/exim,,,,,,false,,false,,,,
 exim,4.97,2024-07-10,4.97.1,2023-11-04,2023-12-25,false,,https://endoflife.date/exim,,,,,2024-07-10,false,,false,,,,
 exim,4.96,2023-11-04,4.96.2,2022-06-25,2023-10-15,false,,https://endoflife.date/exim,,,,,2023-11-04,false,,false,,,,
 exim,4.95,2022-06-25,4.95,2021-09-28,2021-09-28,false,,https://endoflife.date/exim,,,,,2022-06-25,false,,false,,,,
@@ -2041,7 +2041,7 @@ internet-explorer,10,2020-01-31,,2012-10-30,,false,,https://endoflife.date/inter
 internet-explorer,9,2016-01-12,,2011-03-15,,false,,https://endoflife.date/internet-explorer,,,,,2016-01-12,false,,false,,,,
 internet-explorer,8,2016-01-12,,2009-06-17,,false,,https://endoflife.date/internet-explorer,,,,,2016-01-12,false,,false,,,,
 internet-explorer,7,2023-10-10,,2006-10-18,,false,,https://endoflife.date/internet-explorer,,,,,2023-10-10,false,,false,,,,
-ionic,8,false,8.5.1,2024-04-17,2025-03-19,false,,https://endoflife.date/ionic,,true,,true,,false,,false,,,,true
+ionic,8,false,8.5.2,2024-04-17,2025-03-26,false,,https://endoflife.date/ionic,,true,,true,,false,,false,,,,true
 ionic,7,2024-10-17,7.8.6,2023-03-29,2024-04-24,false,,https://endoflife.date/ionic,,2025-04-17,2024-04-17,,2024-10-17,false,,false,,,2025-04-17,
 ionic,6,2023-09-29,6.7.5,2021-12-08,2023-06-08,false,,https://endoflife.date/ionic,,2024-03-29,2023-03-29,,2023-09-29,false,,false,,,2024-03-29,
 ionic,5,2022-06-08,5.9.4,2020-02-11,2022-04-27,false,,https://endoflife.date/ionic,,2022-12-08,2021-12-08,,2022-06-08,false,,false,,,2022-12-08,
@@ -3070,9 +3070,9 @@ nextcloud,19,2021-06-30,19.0.13,2020-06-03,2021-07-01,false,,https://endoflife.d
 nextcloud,18,2021-01-31,18.0.14,2020-01-16,2021-01-25,false,,https://endoflife.date/nextcloud,,,,,2021-01-31,false,,false,,,,
 nextcloud,17,2020-10-31,17.0.10,2019-09-30,2020-10-08,false,,https://endoflife.date/nextcloud,,,,,2020-10-31,false,,false,,,,
 nextcloud,16,2020-06-30,16.0.11,2019-04-25,2020-06-04,false,,https://endoflife.date/nextcloud,,,,,2020-06-30,false,,false,,,,
+nextjs,13,2024-12-21,13.5.11,2022-10-25,2025-03-27,false,,https://endoflife.date/nextjs,,,,,2024-12-21,false,,false,,,,
 nextjs,15,false,15.2.4,2024-10-21,2025-03-24,false,,https://endoflife.date/nextjs,,,,,,false,,false,,,,
 nextjs,14,false,14.2.26,2023-10-26,2025-03-24,false,,https://endoflife.date/nextjs,,,,,,false,,false,,,,
-nextjs,13,2024-12-21,13.5.10,2022-10-25,2025-03-24,false,,https://endoflife.date/nextjs,,,,,2024-12-21,false,,false,,,,
 nextjs,12,2022-11-21,12.3.6,2021-10-26,2025-03-24,false,,https://endoflife.date/nextjs,,,,,2022-11-21,false,,false,,,,
 nextjs,11,2022-01-27,11.1.4,2021-06-15,2022-01-27,false,,https://endoflife.date/nextjs,,,,,2022-01-27,false,,false,,,,
 nextjs,10,2021-06-15,10.2.3,2020-10-27,2021-05-24,false,,https://endoflife.date/nextjs,,,,,2021-06-15,false,,false,,,,

@@ -141,8 +141,8 @@ amazon-rds-postgresql,9.6,2022-04-30,9.6.24,2016-11-11,,false,,https://endoflife
 android,15,false,,2024-09-03,,false,,https://endoflife.date/android,,,,,,false,,false,,,,
 android,14,false,,2023-10-04,,false,,https://endoflife.date/android,,,,,,false,,false,,,,
 android,13,false,,2022-08-15,,false,,https://endoflife.date/android,,,,,,false,,false,,,,
-android,12.1,false,,2022-03-07,,false,https://developer.android.com/about/versions/12/12L,https://endoflife.date/android,,,,,,false,,false,,,,
-android,12,false,,2021-10-04,,false,,https://endoflife.date/android,,,,,,false,,false,,,,
+android,12.1,2025-03-03,,2022-03-07,,false,https://developer.android.com/about/versions/12/12L,https://endoflife.date/android,,,,,2025-03-03,false,,false,,,,
+android,12,2025-03-03,,2021-10-04,,false,,https://endoflife.date/android,,,,,2025-03-03,false,,false,,,,
 android,11,2024-02-05,,2020-09-08,,false,,https://endoflife.date/android,,,,,2024-02-05,false,,false,,,,
 android,10,2023-03-06,,2019-09-03,,false,,https://endoflife.date/android,,,,,2023-03-06,false,,false,,,,
 android,9,2022-01-01,,2018-08-06,,false,https://developer.android.com/about/versions/pie,https://endoflife.date/android,,,,,2022-01-01,false,,false,,,,
@@ -1051,8 +1051,8 @@ debian,2.0,1999-02-15,2.0r5,1998-07-24,1999-02-17,false,https://lists.debian.org
 debian,1.3,1998-12-08,1.3.1 r.6,1997-07-02,1998-02-03,false,https://lists.debian.org/debian-announce/1997/msg00018.html,https://endoflife.date/debian,,1998-12-08,,,1998-12-08,false,,false,,,1998-12-08,
 debian,1.2,1997-10-23,1.2,1996-12-12,1996-12-12,false,https://lists.debian.org/debian-announce/1996/msg00026.html,https://endoflife.date/debian,,1997-10-23,,,1997-10-23,false,,false,,,1997-10-23,
 debian,1.1,1996-12-12,1.1,1996-06-17,1996-06-17,false,https://lists.debian.org/debian-announce/1996/msg00021.html,https://endoflife.date/debian,,1996-12-12,,,1996-12-12,false,,false,,,1996-12-12,
-deno,2.1,2025-07-18,2.1.11,2024-11-21,2025-04-08,true,,https://endoflife.date/deno,,,,,2025-07-18,false,,true,,,,
-deno,2.2,false,2.2.8,2025-02-18,2025-04-04,false,,https://endoflife.date/deno,,,,,,false,,false,,,,
+deno,2.2,false,2.2.9,2025-02-18,2025-04-11,false,,https://endoflife.date/deno,,,,,,false,,false,,,,
+deno,2.1,2025-07-18,2.1.12,2024-11-21,2025-04-11,true,,https://endoflife.date/deno,,,,,2025-07-18,false,,true,,,,
 deno,2.0,2024-11-21,2.0.6,2024-10-08,2024-11-10,false,,https://endoflife.date/deno,,,,,2024-11-21,false,,false,,,,
 deno,1,2024-10-09,1.46.3,2020-04-13,2024-09-04,false,,https://endoflife.date/deno,,,,,2024-10-09,false,,false,,,,
 dependency-track,4.13,false,4.13.0,2025-04-07,2025-04-07,false,,https://endoflife.date/dependency-track,,,,,,false,,false,,,,
@@ -2526,8 +2526,8 @@ laravel,7,2021-03-03,7.30.7,2020-03-03,2024-11-12,false,,https://endoflife.date/
 laravel,6,2022-09-06,6.20.45,2019-09-03,2024-11-12,true,,https://endoflife.date/laravel,,,2022-01-25,,2022-09-06,false,,true,,,,
 laravel,5.5,2020-08-30,5.5.50,2017-08-30,2020-08-18,true,https://laravel.com/docs/5.5/releases,https://endoflife.date/laravel,,,2019-08-30,,2020-08-30,false,,true,,,,
 laravel,5.8,2020-02-26,5.8.38,2019-02-26,2020-04-14,false,https://laravel.com/docs/5.8/releases,https://endoflife.date/laravel,,,2019-08-26,,2020-02-26,false,,false,,,,
+libreoffice,25.2,2025-11-30,25.2.3.1,2024-12-22,2025-04-11,false,,https://endoflife.date/libreoffice,,,,,2025-11-30,false,,false,,,,
 libreoffice,24.8,2025-06-12,24.8.6.2,2024-07-09,2025-03-27,false,,https://endoflife.date/libreoffice,,,,,2025-06-12,false,,false,,,,
-libreoffice,25.2,2025-11-30,25.2.2.2,2024-12-22,2025-03-25,false,,https://endoflife.date/libreoffice,,,,,2025-11-30,false,,false,,,,
 libreoffice,24.2,2024-11-30,24.2.7.2,2024-01-08,2024-10-30,false,,https://endoflife.date/libreoffice,,,,,2024-11-30,false,,false,,,,
 libreoffice,7.6,2024-06-12,7.6.7.2,2023-07-10,2024-05-21,false,,https://endoflife.date/libreoffice,,,,,2024-06-12,false,,false,,,,
 libreoffice,7.5,2023-12-07,7.5.9.2,2022-12-26,2023-12-04,false,,https://endoflife.date/libreoffice,,,,,2023-12-07,false,,false,,,,
@@ -5121,7 +5121,7 @@ suse-manager,3.1,2019-06-30,3.1.11,2017-06-27,2019-06-30,false,,https://endoflif
 suse-manager,3.0,2018-10-31,3.0.12,2016-04-05,2018-06-01,false,,https://endoflife.date/suse-manager,,,,,2018-10-31,false,,false,,,,
 suse-manager,2.1,2017-01-31,2.1.19,2014-06-02,2016-10-31,false,,https://endoflife.date/suse-manager,,,,,2017-01-31,false,,false,,,,
 suse-manager,1.7,2015-06-30,1.7.6,2012-08-09,2013-08-26,false,,https://endoflife.date/suse-manager,,,,,2015-06-30,false,,false,,,,
-svelte,5,false,5.25.12,2024-10-19,2025-04-10,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
+svelte,5,false,5.26.1,2024-10-19,2025-04-11,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
 svelte,4,2024-10-19,4.2.19,2023-06-22,2024-08-23,false,,https://endoflife.date/svelte,,false,2024-10-19,,2024-10-19,false,,false,,,,false
 svelte,3,2023-06-22,3.59.2,2019-04-21,2023-06-20,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2023-06-22,,2023-06-22,false,,false,,,,false
 svelte,2,2019-04-21,2.16.1,2018-04-19,2019-02-08,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2019-04-21,,2019-04-21,false,,false,,,,false

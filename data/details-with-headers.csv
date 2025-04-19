@@ -707,7 +707,7 @@ bootstrap,4,2023-01-01,4.6.2,2018-01-18,2022-07-19,2019-11-26,,https://endoflife
 bootstrap,3,2019-07-24,3.4.1,2013-08-19,2019-02-13,2014-11-01,,https://endoflife.date/bootstrap,,true,2016-09-05,,2019-07-24,false,2014-11-01,,,,,true
 bootstrap,2,2013-08-19,2.3.2,2012-01-31,2013-07-26,false,,https://endoflife.date/bootstrap,,false,2013-08-19,,2013-08-19,false,,false,,,,false
 bun,1,false,1.2.10,2023-09-07,2025-04-15,false,,https://endoflife.date/bun,,,,,,false,,false,,,,
-cakephp,5.2,false,5.2.1,2025-03-29,2025-04-06,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
+cakephp,5.2,false,5.2.2,2025-03-29,2025-04-17,false,,https://endoflife.date/cakephp,,,,true,,false,,false,,,,
 cakephp,4.6,2026-09-09,4.6.0,2025-03-22,2025-03-22,false,,https://endoflife.date/cakephp,,,2025-09-09,,2026-09-09,false,,false,,,,
 cakephp,4.5,2026-09-09,4.5.10,2023-10-14,2025-03-21,false,,https://endoflife.date/cakephp,,,2025-03-23,,2026-09-09,false,,false,,,,
 cakephp,5.1,false,5.1.6,2024-09-13,2025-02-23,false,,https://endoflife.date/cakephp,,,2025-03-30,,,false,,false,,,,
@@ -1052,7 +1052,7 @@ debian,2.0,1999-02-15,2.0r5,1998-07-24,1999-02-17,false,https://lists.debian.org
 debian,1.3,1998-12-08,1.3.1 r.6,1997-07-02,1998-02-03,false,https://lists.debian.org/debian-announce/1997/msg00018.html,https://endoflife.date/debian,,1998-12-08,,,1998-12-08,false,,false,,,1998-12-08,
 debian,1.2,1997-10-23,1.2,1996-12-12,1996-12-12,false,https://lists.debian.org/debian-announce/1996/msg00026.html,https://endoflife.date/debian,,1997-10-23,,,1997-10-23,false,,false,,,1997-10-23,
 debian,1.1,1996-12-12,1.1,1996-06-17,1996-06-17,false,https://lists.debian.org/debian-announce/1996/msg00021.html,https://endoflife.date/debian,,1996-12-12,,,1996-12-12,false,,false,,,1996-12-12,
-deno,2.2,false,2.2.10,2025-02-18,2025-04-14,false,,https://endoflife.date/deno,,,,,,false,,false,,,,
+deno,2.2,false,2.2.11,2025-02-18,2025-04-18,false,,https://endoflife.date/deno,,,,,,false,,false,,,,
 deno,2.1,2025-07-18,2.1.12,2024-11-21,2025-04-11,true,,https://endoflife.date/deno,,,,,2025-07-18,false,,true,,,,
 deno,2.0,2024-11-21,2.0.6,2024-10-08,2024-11-10,false,,https://endoflife.date/deno,,,,,2024-11-21,false,,false,,,,
 deno,1,2024-10-09,1.46.3,2020-04-13,2024-09-04,false,,https://endoflife.date/deno,,,,,2024-10-09,false,,false,,,,
@@ -1181,7 +1181,7 @@ eclipse-temurin,19,2023-03-31,19.0.2+7,2022-09-26,2023-01-20,false,,https://endo
 eclipse-temurin,18,2022-09-30,18.0.2.1+1,2022-03-24,2022-08-26,false,,https://endoflife.date/eclipse-temurin,,,,,2022-09-30,false,,false,,,,
 eclipse-temurin,16,2021-09-30,16.0.2+7,2021-07-30,2021-07-30,false,,https://endoflife.date/eclipse-temurin,,,,,2021-09-30,false,,false,,,,
 elasticsearch,8,2027-07-15,8.18.0,2022-02-10,2025-04-10,false,,https://endoflife.date/elasticsearch,,,,,2027-07-15,false,,false,,,,
-elasticsearch,9,false,2025-04-08,2025-04-08,2025-04-08,false,,https://endoflife.date/elasticsearch,,,,,,false,,false,,,,
+elasticsearch,9,false,9.0.0,2025-04-08,2025-04-08,false,,https://endoflife.date/elasticsearch,,,,,,false,,false,,,,
 elasticsearch,7,2026-01-15,7.17.28,2019-04-10,2025-02-18,false,,https://endoflife.date/elasticsearch,,,,,2026-01-15,false,,false,,,,
 elasticsearch,6,2022-02-10,6.8.23,2017-11-14,2022-01-13,false,,https://endoflife.date/elasticsearch,,,,,2022-02-10,false,,false,,,,
 electron,35,2025-09-02,35.1.5,2025-03-04,2025-04-09,false,,https://endoflife.date/electron,,,,,2025-09-02,false,,false,,,,
@@ -1300,7 +1300,7 @@ erlang,20,2020-06-21,20.3.8.26,2017-06-21,2020-02-27,false,,https://endoflife.da
 erlang,19,2019-06-21,19.3.6.13,2016-06-21,2019-01-08,false,,https://endoflife.date/erlang,,,2017-06-21,,2019-06-21,false,,false,,,,
 erlang,18,2018-11-09,18.3.4.11,2015-06-23,2018-11-09,false,,https://endoflife.date/erlang,,,2016-06-21,,2018-11-09,false,,false,,,,
 erlang,17,2018-10-11,17.5.6.10,2014-04-07,2018-10-11,false,,https://endoflife.date/erlang,,,2015-06-23,,2018-10-11,false,,false,,,,
-eslint,9,false,9.24.0,2024-04-05,2025-04-04,false,,https://endoflife.date/eslint,,true,,true,,false,,false,,,,true
+eslint,9,false,9.25.0,2024-04-05,2025-04-18,false,,https://endoflife.date/eslint,,true,,true,,false,,false,,,,true
 eslint,8,2024-10-05,8.57.1,2021-10-09,2024-09-16,false,,https://endoflife.date/eslint,,true,2024-04-05,,2024-10-05,false,,false,,,,true
 eslint,7,2022-04-09,7.32.0,2020-05-08,2021-07-30,false,,https://endoflife.date/eslint,,false,2021-10-09,,2022-04-09,false,,false,,,,false
 eslint,6,2020-11-08,6.8.0,2019-06-21,2019-12-20,false,,https://endoflife.date/eslint,,false,2020-05-08,,2020-11-08,false,,false,,,,false
@@ -1731,12 +1731,12 @@ godot,2.1,true,2.1.6,2016-08-09,2019-07-08,true,,https://endoflife.date/godot,,,
 godot,3.0,true,3.0.6,2018-01-29,2018-07-31,false,,https://endoflife.date/godot,,,,,,true,,false,,,,
 godot,2.0,true,2.0.4.1,2016-02-22,2016-07-10,false,https://godotengine.org/article/maintenance-release-godot-2-0-4,https://endoflife.date/godot,,,,,,true,,false,,,,
 godot,1.0,true,1.0,2014-12-15,2014-12-15,false,https://godotengine.org/article/godot-engine-reaches-1-0/,https://endoflife.date/godot,,,,,,true,,false,,,,
-google-kubernetes-engine,1.32,2026-04-11,1.32.3-gke.1440000,2025-02-11,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2026-02-28,,2026-04-11,false,,false,,,,
-google-kubernetes-engine,1.31,2025-12-22,1.31.7-gke.1149000,2024-10-25,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2025-09-30,,2025-12-22,false,,false,,,,
-google-kubernetes-engine,1.30,2025-09-30,1.30.11-gke.1093000,2024-07-31,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2025-07-31,,2025-09-30,false,,false,,,,
-google-kubernetes-engine,1.29,2025-04-12,1.29.15-gke.1134000,2024-01-26,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2025-02-28,,2025-04-12,false,,false,,,,
-google-kubernetes-engine,1.28,2025-02-04,1.28.15-gke.2097000,2023-12-04,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2024-12-31,,2025-02-04,false,,false,,,,
-google-kubernetes-engine,1.27,2024-10-01,1.27.16-gke.2650000,2023-06-15,2025-04-08,false,,https://endoflife.date/google-kubernetes-engine,,,2024-07-31,,2024-10-01,false,,false,,,,
+google-kubernetes-engine,1.32,2026-04-11,1.32.3-gke.1717000,2025-02-11,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2026-02-28,,2026-04-11,false,,false,,,,
+google-kubernetes-engine,1.31,2025-12-22,1.31.7-gke.1212000,2024-10-25,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2025-09-30,,2025-12-22,false,,false,,,,
+google-kubernetes-engine,1.30,2025-09-30,1.30.11-gke.1131000,2024-07-31,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2025-07-31,,2025-09-30,false,,false,,,,
+google-kubernetes-engine,1.29,2025-04-12,1.29.15-gke.1170000,2024-01-26,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2025-02-28,,2025-04-12,false,,false,,,,
+google-kubernetes-engine,1.28,2025-02-04,1.28.15-gke.2121000,2023-12-04,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2024-12-31,,2025-02-04,false,,false,,,,
+google-kubernetes-engine,1.27,2024-10-01,1.27.16-gke.2664000,2023-06-15,2025-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2024-07-31,,2024-10-01,false,,false,,,,
 google-kubernetes-engine,1.26,2024-06-30,1.26.15-gke.1469001,2023-03-31,2024-07-03,false,,https://endoflife.date/google-kubernetes-engine,,,2024-04-30,,2024-06-30,false,,false,,,,
 google-kubernetes-engine,1.25,2024-03-30,1.25.16-gke.1759000,2022-12-14,2024-04-18,false,,https://endoflife.date/google-kubernetes-engine,,,2024-01-31,,2024-03-30,false,,false,,,,
 google-kubernetes-engine,1.24,2023-10-31,1.24.17-gke.2472000,2022-06-23,2024-01-11,false,,https://endoflife.date/google-kubernetes-engine,,,2023-08-31,,2023-10-31,false,,false,,,,
@@ -1922,7 +1922,7 @@ hashicorp-packer,1.11,false,1.11.2,2024-05-31,2024-07-30,false,,https://endoflif
 hashicorp-packer,1.10,false,1.10.3,2023-12-05,2024-04-22,false,,https://endoflife.date/hashicorp-packer,,,,,,false,,false,,,,
 hashicorp-packer,1.9,2025-01-22,1.9.5,2023-05-31,2023-12-04,false,,https://endoflife.date/hashicorp-packer,,,,,2025-01-22,false,,false,,,,
 hashicorp-packer,1.8,2024-05-31,1.8.7,2022-03-04,2023-05-04,false,,https://endoflife.date/hashicorp-packer,,,,,2024-05-31,false,,false,,,,
-hashicorp-vault,1.19,false,1.19.1,2025-03-04,2025-04-02,false,,https://endoflife.date/hashicorp-vault,,false,,,,false,,false,,,,false
+hashicorp-vault,1.19,false,1.19.2,2025-03-04,2025-04-17,false,,https://endoflife.date/hashicorp-vault,,false,,,,false,,false,,,,false
 hashicorp-vault,1.18,2025-03-04,1.18.5,2024-10-08,2025-02-24,false,,https://endoflife.date/hashicorp-vault,,false,,,2025-03-04,false,,false,,,,false
 hashicorp-vault,1.17,2024-10-09,1.17.6,2024-06-10,2024-09-24,false,,https://endoflife.date/hashicorp-vault,,false,,,2024-10-09,false,,false,,,,false
 hashicorp-vault,1.16,2024-06-10,1.16.3,2024-03-25,2024-05-29,true,,https://endoflife.date/hashicorp-vault,,2026-03-15,,,2024-06-10,false,,true,,,2026-03-15,
@@ -2090,6 +2090,8 @@ ios,8,2015-09-30,8.4.1,2014-09-17,2015-08-13,false,https://support.apple.com/HT2
 ios,7,2014-10-20,7.1.2,2013-09-18,2014-06-30,false,https://support.apple.com/HT207979,https://endoflife.date/ios,,,2014-09-17,,2014-10-20,false,,false,,,,
 ios,6,2013-09-26,6.1.6,2012-09-19,2014-02-21,false,https://support.apple.com/HT212584,https://endoflife.date/ios,,,2013-09-18,,2013-09-26,false,,false,,,,
 ios,5,2012-11-01,5.1.1,2011-10-12,2012-05-07,false,https://support.apple.com/HT212597,https://endoflife.date/ios,,,2012-09-19,,2012-11-01,false,,false,,,,
+ipad,11,false,,2025-03-12,,false,https://support.apple.com/122240,https://endoflife.date/ipad,false,,,,,false,,false,,false,,
+ipad,air-7,false,,2025-03-12,,false,https://support.apple.com/122241,https://endoflife.date/ipad,false,,,,,false,,false,,false,,
 ipad,mini-7,false,,2024-10-23,,false,https://support.apple.com/121456,https://endoflife.date/ipad,false,,,,,false,,false,,false,,
 ipad,pro-7,false,,2024-05-15,,false,https://support.apple.com/119891,https://endoflife.date/ipad,false,,,,,false,,false,,false,,
 ipad,air-6,false,,2024-05-15,,false,https://support.apple.com/119893,https://endoflife.date/ipad,false,,,,,false,,false,,false,,
@@ -2533,8 +2535,8 @@ laravel,7,2021-03-03,7.30.7,2020-03-03,2024-11-12,false,,https://endoflife.date/
 laravel,6,2022-09-06,6.20.45,2019-09-03,2024-11-12,true,,https://endoflife.date/laravel,,,2022-01-25,,2022-09-06,false,,true,,,,
 laravel,5.5,2020-08-30,5.5.50,2017-08-30,2020-08-18,true,https://laravel.com/docs/5.5/releases,https://endoflife.date/laravel,,,2019-08-30,,2020-08-30,false,,true,,,,
 laravel,5.8,2020-02-26,5.8.38,2019-02-26,2020-04-14,false,https://laravel.com/docs/5.8/releases,https://endoflife.date/laravel,,,2019-08-26,,2020-02-26,false,,false,,,,
+libreoffice,24.8,2025-06-12,24.8.7.1,2024-07-09,2025-04-18,false,,https://endoflife.date/libreoffice,,,,,2025-06-12,false,,false,,,,
 libreoffice,25.2,2025-11-30,25.2.3.1,2024-12-22,2025-04-11,false,,https://endoflife.date/libreoffice,,,,,2025-11-30,false,,false,,,,
-libreoffice,24.8,2025-06-12,24.8.6.2,2024-07-09,2025-03-27,false,,https://endoflife.date/libreoffice,,,,,2025-06-12,false,,false,,,,
 libreoffice,24.2,2024-11-30,24.2.7.2,2024-01-08,2024-10-30,false,,https://endoflife.date/libreoffice,,,,,2024-11-30,false,,false,,,,
 libreoffice,7.6,2024-06-12,7.6.7.2,2023-07-10,2024-05-21,false,,https://endoflife.date/libreoffice,,,,,2024-06-12,false,,false,,,,
 libreoffice,7.5,2023-12-07,7.5.9.2,2022-12-26,2023-12-04,false,,https://endoflife.date/libreoffice,,,,,2023-12-07,false,,false,,,,
@@ -5145,7 +5147,7 @@ suse-manager,3.1,2019-06-30,3.1.11,2017-06-27,2019-06-30,false,,https://endoflif
 suse-manager,3.0,2018-10-31,3.0.12,2016-04-05,2018-06-01,false,,https://endoflife.date/suse-manager,,,,,2018-10-31,false,,false,,,,
 suse-manager,2.1,2017-01-31,2.1.19,2014-06-02,2016-10-31,false,,https://endoflife.date/suse-manager,,,,,2017-01-31,false,,false,,,,
 suse-manager,1.7,2015-06-30,1.7.6,2012-08-09,2013-08-26,false,,https://endoflife.date/suse-manager,,,,,2015-06-30,false,,false,,,,
-svelte,5,false,5.27.3,2024-10-19,2025-04-18,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
+svelte,5,false,5.28.1,2024-10-19,2025-04-18,false,,https://endoflife.date/svelte,,false,,true,,false,,false,,,,false
 svelte,4,2024-10-19,4.2.19,2023-06-22,2024-08-23,false,,https://endoflife.date/svelte,,false,2024-10-19,,2024-10-19,false,,false,,,,false
 svelte,3,2023-06-22,3.59.2,2019-04-21,2023-06-20,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2023-06-22,,2023-06-22,false,,false,,,,false
 svelte,2,2019-04-21,2.16.1,2018-04-19,2019-02-08,false,https://github.com/sveltejs/svelte/releases/tag/v__LATEST__,https://endoflife.date/svelte,,false,2019-04-21,,2019-04-21,false,,false,,,,false
@@ -5252,8 +5254,8 @@ tomcat,7,2021-03-31,7.0.109,2013-01-10,2021-04-22,false,,https://endoflife.date/
 tomcat,8.0,2018-06-30,8.0.53,2014-01-29,2018-06-29,false,,https://endoflife.date/tomcat,,,,,2018-06-30,false,,false,,,,
 tomcat,6,2016-12-31,6.0.53,2006-10-21,,false,,https://endoflife.date/tomcat,,,,,2016-12-31,false,,false,,,,
 tomcat,5,2012-09-30,5.5.36,2003-09-06,,false,,https://endoflife.date/tomcat,,,,,2012-09-30,false,,false,,,,
-traefik,2.11,2026-02-01,2.11.23,2024-02-12,2025-04-17,false,,https://endoflife.date/traefik,,,2025-04-29,,2026-02-01,false,,false,,,,
-traefik,3.3,false,3.3.5,2025-01-06,2025-03-31,false,,https://endoflife.date/traefik,,,,true,,false,,false,,,,
+traefik,3.3,false,3.3.6,2025-01-06,2025-04-18,false,,https://endoflife.date/traefik,,,,true,,false,,false,,,,
+traefik,2.11,2026-02-01,2.11.24,2024-02-12,2025-04-18,false,,https://endoflife.date/traefik,,,2025-04-29,,2026-02-01,false,,false,,,,
 traefik,3.2,2025-01-06,3.2.5,2024-10-28,2025-01-07,false,,https://endoflife.date/traefik,,,2025-01-06,,2025-01-06,false,,false,,,,
 traefik,3.1,2024-10-28,3.1.7,2024-07-15,2024-10-28,false,,https://endoflife.date/traefik,,,2024-10-28,,2024-10-28,false,,false,,,,
 traefik,3.0,2024-07-15,3.0.4,2024-04-29,2024-07-02,false,,https://endoflife.date/traefik,,,2024-07-15,,2024-07-15,false,,false,,,,
@@ -5340,7 +5342,7 @@ umbraco,11,2023-12-01,11.5.0,2022-12-01,2023-09-05,false,,https://endoflife.date
 umbraco,7,2023-09-30,7.15.11,2013-11-21,2023-09-05,true,,https://endoflife.date/umbraco,,,2021-07-31,,2023-09-30,false,,true,,,,
 umbraco,9,2022-12-16,9.5.4,2021-09-28,2022-09-05,false,,https://endoflife.date/umbraco,,,2022-09-16,,2022-12-16,false,,false,,,,
 umbraco,6,2018-05-01,6.2.6,2013-03-27,2016-03-03,false,https://umbraco.com/products/knowledge-center/long-term-support-and-end-of-life/umbraco-6-end-of-life-eol/,https://endoflife.date/umbraco,,,2018-05-01,,2018-05-01,false,,false,,,,
-unity,6,false,6000.0.46f1,2024-04-29,2025-04-10,false,,https://endoflife.date/unity,,,,,,false,,false,,,,
+unity,6,false,6000.0.47f1,2024-04-29,2025-04-16,false,,https://endoflife.date/unity,,,,,,false,,false,,,,
 unity,2022.3,false,2022.3.61f1,2023-05-30,2025-04-10,true,,https://endoflife.date/unity,,,,,,false,,true,,,,
 unity,2021.3,2025-02-18,2021.3.50f1,2022-04-11,2025-03-19,false,,https://endoflife.date/unity,,,,,2025-02-18,false,,false,,,,
 unity,2021,2025-02-18,2021.3.49f1,2022-04-11,2025-02-18,true,,https://endoflife.date/unity,,,,,2025-02-18,false,,true,,,,
@@ -5572,7 +5574,7 @@ weakforced,2.6,2022-12-05,2.6.2,2021-11-24,2022-05-19,false,,https://endoflife.d
 weakforced,2.4,2021-11-24,2.4.1,2020-08-05,2021-07-01,false,,https://endoflife.date/weakforced,,,,,2021-11-24,false,,false,,,,
 weakforced,2.2,2020-08-05,2.2.2,2019-11-07,2020-03-13,false,,https://endoflife.date/weakforced,,,,,2020-08-05,false,,false,,,,
 weakforced,2.0,2019-11-25,2.0.1,2018-12-11,2019-04-16,false,,https://endoflife.date/weakforced,,,,,2019-11-25,false,,false,,,,
-weechat,4.6,false,4.6.1,2025-03-23,2025-04-09,false,,https://endoflife.date/weechat,,,,,,false,,false,,,,
+weechat,4.6,false,4.6.2,2025-03-23,2025-04-18,false,,https://endoflife.date/weechat,,,,,,false,,false,,,,
 weechat,4.5,2025-03-23,4.5.2,2024-12-15,2025-02-20,false,,https://endoflife.date/weechat,,,,,2025-03-23,false,,false,,,,
 weechat,4.4,2024-12-15,4.4.4,2024-08-17,2024-11-30,false,,https://endoflife.date/weechat,,,,,2024-12-15,false,,false,,,,
 weechat,4.3,2024-08-17,4.3.6,2024-05-26,2024-08-15,false,,https://endoflife.date/weechat,,,,,2024-08-17,false,,false,,,,
